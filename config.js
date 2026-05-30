@@ -18,10 +18,10 @@ const SITE = {
   // Bottom section
   hero: {
     badge:      'Rated 4/5 - 78,921+ Total Reviews',
-    heading:    "Get a lush, healthy lawn that you'll love and your neighbors will envy - 50% OFF first application*",
+    heading:    "Graduate your home into the dean's list.",
     subheading: "Tired of patchy, weed-filled lawns? Enjoy full-service lawn care from tree to pest control, reliable results by friendly local pros, and hassle-free service for peace of mind.",
-    check_1:    '100% money back guarantee',
-    check_2:    'Transparent Pricing',
+    check_1:    'Satisfaction Guaranteed',
+    check_2:    'Real customer support team',
   },
 
   // Reviews bar
