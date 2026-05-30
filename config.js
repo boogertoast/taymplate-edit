@@ -42,7 +42,7 @@ const SITE = {
 
   // Reviews grid 
   reviews_grid: {
-    heading: "Trusted by Houston to give their homes straight A's in curb appeal",
+    heading: "Trusted by Houston to graduate their curb appeal with honors",
     1: {
       title: "It's been years since I have seen a weed",
       body:  '"I have tried every national brand and local lawn service in my area with varying degrees of success but always some frustration. No weeds. Great lawn. Great service. Great price."',
