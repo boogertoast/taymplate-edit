@@ -19,7 +19,7 @@ const SITE = {
   hero: {
     badge:      'Rated 4/5 - 78,921+ Total Reviews',
     heading:    "Graduate your home to the dean's list.",
-    subheading: "Tired of patchy, weed-filled lawns? Enjoy full-service lawn care from tree to pest control, reliable results by friendly local pros, and hassle-free service for peace of mind.",
+    subheading: "At Proffesor Power Wash We turn all bad eggs into good noodles making your home look brand new for the first time before.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
