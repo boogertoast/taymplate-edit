@@ -209,7 +209,7 @@ const SITE = {
     favicon_32:   'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-150x150.png',
     favicon_192:  'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-300x300.png',
     logo:         'https://fairwaylawns.com/wp-content/uploads/2025/02/logo.svg',
-    hero_xl:      'file:///C:/Users/thisi/Downloads/Powerwashhomephoto1.svg',
+    hero_xl:      'https://fairwaylawns.com/wp-content/uploads/2025/12/54e448034144b430ef5f1be6277d6de4742860c4-2048x1366.webp',
     hero_md:      'https://fairwaylawns.com/wp-content/uploads/2025/12/54e448034144b430ef5f1be6277d6de4742860c4-1024x683.webp',
     hero_sm:      'https://fairwaylawns.com/wp-content/uploads/2025/12/54e448034144b430ef5f1be6277d6de4742860c4-768x512.webp',
     review_avatar_1: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-123-3.webp',
