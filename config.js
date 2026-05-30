@@ -184,7 +184,7 @@ const SITE = {
   // Colors
   colors: {
     primary:      '#017840',
-    secondary:    '#a44239',
+    secondary:    '#0c2340',
     heading:      '#3b2f2a',
     body:         '#595959',
     subtle:       '#929292',
