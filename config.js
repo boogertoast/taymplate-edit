@@ -199,7 +199,7 @@ const SITE = {
     bg_faqs:      '#f2f2f2',
     border:       '#cfcfcf',
     step_bg:      '#b6cfa8',
-    reviews_bar:  '#789d64',
+    reviews_bar:  '#017840',
     banner_1:     '#f6fbc0',
     banner_2:     '#e8f65a',
   },
