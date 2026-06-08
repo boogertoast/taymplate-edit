@@ -1,7 +1,3 @@
-
-
-
-
 // Site config
 
 const SITE = {
