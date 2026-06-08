@@ -175,9 +175,9 @@ const SITE = {
     services:    true,
     feature:     true,
     steps:       true,
-    carousel:    true,
-    faq:         true,
-    quote:       false,
+    carousel:    false,
+    faq:         false,
+    quote:       true,
     sticky_cta:  true,
   },
 
@@ -206,43 +206,72 @@ const SITE = {
 
   // Images
   img: {
-    favicon_32:   'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-150x150.png',
-    favicon_192:  'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-300x300.png',
-    logo:         'https://fairwaylawns.com/wp-content/uploads/2025/02/logo.svg',
-    hero_xl:      'https://fairwaylawns.com/wp-content/uploads/2025/12/54e448034144b430ef5f1be6277d6de4742860c4-2048x1366.webp',
-    hero_md:      'https://fairwaylawns.com/wp-content/uploads/2025/12/54e448034144b430ef5f1be6277d6de4742860c4-1024x683.webp',
-    hero_sm:      'https://fairwaylawns.com/wp-content/uploads/2025/12/54e448034144b430ef5f1be6277d6de4742860c4-768x512.webp',
+
+    // Logo, recommended width: 160–220px.
+    logo:            'https://fairwaylawns.com/wp-content/uploads/2025/02/logo.svg',
+
+    // favicon_32  : Browser tab icon, MUST be 32x32
+    // favicon_192 : Android home icon. MUST be 192x192
+    favicon_32:      'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-150x150.png',
+    favicon_192:     'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-300x300.png',
+
+    // Hero section
+    hero_xl:         'homephoto.png',
+    hero_md:         'homephoto.png',
+    hero_sm:         'homephoto.png',
+
+    // Reviews bar
     review_avatar_1: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-123-3.webp',
     review_avatar_2: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-123-1.webp',
     review_avatar_3: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Group-289379-15.webp',
+
+    // Review cards
     review_card_1_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header.webp',
     review_card_1_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Group-289379-3.webp',
+
     review_card_2_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-1-1.webp',
     review_card_2_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122.webp',
+
     review_card_3_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-2-1.webp',
     review_card_3_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122-1.webp',
+
     review_card_4_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-3-1.webp',
     review_card_4_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Group-289379-2.webp',
+
     review_card_5_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-4-1-e1771602389232.webp',
     review_card_5_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Judy-Karnes.png',
+
     review_card_6_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-5-1.webp',
     review_card_6_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122-2.webp',
-    social_proof_1: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-104.webp',
-    social_proof_2: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-105.webp',
-    social_proof_3: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-106.webp',
-    feature_1:    'https://fairwaylawns.com/wp-content/uploads/2025/12/e6a7c2811bab1ec0e3992be077f105159dffaf6d-scaled-1-1024x683.webp',
-    feature_2:    'https://fairwaylawns.com/wp-content/uploads/2026/02/Fairway_Lawn_LittleRock_IMG_0254.jpg-e1771623398652.webp',
-    feature_3:    'https://fairwaylawns.com/wp-content/uploads/2025/12/Image-Op-1-1024x450.webp',
-    fl_feature_bg:'https://fairwaylawns.com/wp-content/uploads/2025/12/d4e885a13eda2aeadcc72a4210d1f198f8c2078a.webp',
-    quote_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/58e9541c5a34eabb0a78cdfe6d80f427ac0347c4.webp',
-    quote_bg_1024:'https://fairwaylawns.com/wp-content/uploads/2025/12/58e9541c5a34eabb0a78cdfe6d80f427ac0347c4-1024x686.webp',
-    carousel_1:   'https://fairwaylawns.com/wp-content/uploads/2025/12/ce99648f016b7d855cad68030cfe5dfb77b4929d.webp',
-    carousel_2:   'https://fairwaylawns.com/wp-content/uploads/2025/12/51b8a3b43133aa7763eddf9b26b1a6963aba7ed2.webp',
-    carousel_3:   'https://fairwaylawns.com/wp-content/uploads/2026/02/Fairway_Lawn_LittleRock_IMG_2424.jpeg-768x1024.webp',
-    carousel_4:   'https://fairwaylawns.com/wp-content/uploads/2025/12/a62fd7cc0f7d40e801598ccf25abe1adbcbbd8be-1024x768.webp',
-    carousel_5:   'https://fairwaylawns.com/wp-content/uploads/2025/12/c9b98ce90ac7d6462bd54acc687763ea9275431b-1-819x1024.webp',
-    carousel_6:   'https://fairwaylawns.com/wp-content/uploads/2025/12/1c4d284040debbcf25cc5322b4cadeb9b875d52e-768x1024.webp',
-    carousel_7:   'https://fairwaylawns.com/wp-content/uploads/2025/12/acf5145121bd2fd6ec1126b05502b161415f5046.webp',
+
+    // Avatars
+    social_proof_1:  'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-104.webp',
+    social_proof_2:  'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-105.webp',
+    social_proof_3:  'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-106.webp',
+
+    //   feature_1 : Section 1 appears on the LEFT
+    //   feature_2 : Section 2 appears on the RIGHT
+    //   feature_3 : Steps section appears alongside the 4-step list
+    feature_1:       'https://fairwaylawns.com/wp-content/uploads/2025/12/e6a7c2811bab1ec0e3992be077f105159dffaf6d-scaled-1-1024x683.webp',
+    feature_2:       'https://fairwaylawns.com/wp-content/uploads/2026/02/Fairway_Lawn_LittleRock_IMG_0254.jpg-e1771623398652.webp',
+    feature_3:       'https://fairwaylawns.com/wp-content/uploads/2025/12/Image-Op-1-1024x450.webp',
+
+    // Feature Banner
+    fl_feature_bg:   'https://fairwaylawns.com/wp-content/uploads/2025/12/d4e885a13eda2aeadcc72a4210d1f198f8c2078a.webp',
+
+    // Quote
+    quote_bg:        'https://fairwaylawns.com/wp-content/uploads/2025/12/58e9541c5a34eabb0a78cdfe6d80f427ac0347c4.webp',
+    quote_bg_1024:   'https://fairwaylawns.com/wp-content/uploads/2025/12/58e9541c5a34eabb0a78cdfe6d80f427ac0347c4-1024x686.webp',
+
+    // Carousel
+    carousel_1:      'https://fairwaylawns.com/wp-content/uploads/2025/12/ce99648f016b7d855cad68030cfe5dfb77b4929d.webp',
+    carousel_2:      'https://fairwaylawns.com/wp-content/uploads/2025/12/51b8a3b43133aa7763eddf9b26b1a6963aba7ed2.webp',
+    carousel_3:      'https://fairwaylawns.com/wp-content/uploads/2026/02/Fairway_Lawn_LittleRock_IMG_2424.jpeg-768x1024.webp',
+    carousel_4:      'https://fairwaylawns.com/wp-content/uploads/2025/12/a62fd7cc0f7d40e801598ccf25abe1adbcbbd8be-1024x768.webp',
+    carousel_5:      'https://fairwaylawns.com/wp-content/uploads/2025/12/c9b98ce90ac7d6462bd54acc687763ea9275431b-1-819x1024.webp',
+    carousel_6:      'https://fairwaylawns.com/wp-content/uploads/2025/12/1c4d284040debbcf25cc5322b4cadeb9b875d52e-768x1024.webp',
+    carousel_7:      'https://fairwaylawns.com/wp-content/uploads/2025/12/acf5145121bd2fd6ec1126b05502b161415f5046.webp',
+
   },
 };
 
@@ -272,6 +301,49 @@ const SITE = {
     --color-banner-2:    ${SITE.colors.banner_2};
   }`;
   document.head.appendChild(style);
+
+  const imgStyle = document.createElement('style');
+  imgStyle.textContent = `:root {
+    --img-logo:              url('${SITE.img.logo}');
+    --img-favicon-32:        url('${SITE.img.favicon_32}');
+    --img-favicon-192:       url('${SITE.img.favicon_192}');
+    --img-hero-xl:           url('${SITE.img.hero_xl}');
+    --img-hero-md:           url('${SITE.img.hero_md}');
+    --img-hero-sm:           url('${SITE.img.hero_sm}');
+    --img-review-avatar-1:   url('${SITE.img.review_avatar_1}');
+    --img-review-avatar-2:   url('${SITE.img.review_avatar_2}');
+    --img-review-avatar-3:   url('${SITE.img.review_avatar_3}');
+    --img-review-card-1-bg:      url('${SITE.img.review_card_1_bg}');
+    --img-review-card-1-avatar:  url('${SITE.img.review_card_1_avatar}');
+    --img-review-card-2-bg:      url('${SITE.img.review_card_2_bg}');
+    --img-review-card-2-avatar:  url('${SITE.img.review_card_2_avatar}');
+    --img-review-card-3-bg:      url('${SITE.img.review_card_3_bg}');
+    --img-review-card-3-avatar:  url('${SITE.img.review_card_3_avatar}');
+    --img-review-card-4-bg:      url('${SITE.img.review_card_4_bg}');
+    --img-review-card-4-avatar:  url('${SITE.img.review_card_4_avatar}');
+    --img-review-card-5-bg:      url('${SITE.img.review_card_5_bg}');
+    --img-review-card-5-avatar:  url('${SITE.img.review_card_5_avatar}');
+    --img-review-card-6-bg:      url('${SITE.img.review_card_6_bg}');
+    --img-review-card-6-avatar:  url('${SITE.img.review_card_6_avatar}');
+    --img-social-proof-1:    url('${SITE.img.social_proof_1}');
+    --img-social-proof-2:    url('${SITE.img.social_proof_2}');
+    --img-social-proof-3:    url('${SITE.img.social_proof_3}');
+    --img-feature-1:         url('${SITE.img.feature_1}');
+    --img-feature-2:         url('${SITE.img.feature_2}');
+    --img-feature-3:         url('${SITE.img.feature_3}');
+    --img-fl-feature-bg:     url('${SITE.img.fl_feature_bg}');
+    --img-quote-bg:          url('${SITE.img.quote_bg}');
+    --img-quote-bg-1024:     url('${SITE.img.quote_bg_1024}');
+    --img-carousel-1:        url('${SITE.img.carousel_1}');
+    --img-carousel-2:        url('${SITE.img.carousel_2}');
+    --img-carousel-3:        url('${SITE.img.carousel_3}');
+    --img-carousel-4:        url('${SITE.img.carousel_4}');
+    --img-carousel-5:        url('${SITE.img.carousel_5}');
+    --img-carousel-6:        url('${SITE.img.carousel_6}');
+    --img-carousel-7:        url('${SITE.img.carousel_7}');
+  }`;
+  document.head.appendChild(imgStyle);
+
   function flatten(obj, prefix) {
     const out = {};
     for (const [k, v] of Object.entries(obj)) {
@@ -303,6 +375,10 @@ const SITE = {
   });
   document.querySelectorAll('source[srcset]').forEach(el => {
     el.srcset = resolve(el.getAttribute('srcset'));
+  });
+  document.querySelectorAll('[alt]').forEach(el => {
+    const a = el.getAttribute('alt');
+    if (a.includes('{{')) el.setAttribute('alt', resolve(a));
   });
   document.querySelectorAll('[style]').forEach(el => {
     const s = el.getAttribute('style');
