@@ -253,7 +253,7 @@ const SITE = {
     //   feature_2 : Section 2 appears on the RIGHT
     //   feature_3 : Steps section appears alongside the 4-step list
     feature_1:       'Powerwashhomephoto2.png',
-    feature_2:       'https://fairwaylawns.com/wp-content/uploads/2026/02/Fairway_Lawn_LittleRock_IMG_0254.jpg-e1771623398652.webp',
+    feature_2:       'homephoto3.png',
     feature_3:       'https://fairwaylawns.com/wp-content/uploads/2025/12/Image-Op-1-1024x450.webp',
 
     // Feature Banner
