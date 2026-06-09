@@ -18,8 +18,8 @@ const SITE = {
   // Bottom section
   hero: {
     badge:      'Rated 4/5 - 78,921+ Total Reviews',
-    heading:    "Graduate your home to the dean's list.",
-    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your home at the top of your class.",
+    heading:    "Graduate your driveway to the dean's list.",
+    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your home at the top of the class.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
@@ -27,8 +27,8 @@ const SITE = {
   // Reviews bar
   reviews_bar: {
     1: {
-      quote: 'My neighbors keep telling me how pretty my lawn looks.  It looks better every day.',
-      name:  'Zuleyda Lopez',
+      quote: 'Absolutely outstanding work! Made my Driveway look brand new again!',
+      name:  'Sarah Williams',
     },
     2: {
       quote: 'They have brought my yard from a graveyard to a lush green beauty in less than a month.',
