@@ -31,7 +31,7 @@ const SITE = {
       name:  'Sarah Williams',
     },
     2: {
-      quote: 'They have brought my yard from a graveyard to a lush green beauty in less than a month.',
+      quote: 'I couldn't believe the difference years of grime and staining just gone.',
       name:  'Jim Bozard',
     },
     3: {
@@ -45,7 +45,7 @@ const SITE = {
     heading: "Trusted by Houston to Graduate their curb appeal with straight A's ",
     1: {
       title: "It's been years since I have seen a weed",
-      body:  '"I have tried every national brand and local lawn service in my area with varying degrees of success but always some frustration. No weeds. Great lawn. Great service. Great price."',
+      body:  '"Booking was a breeze and Wyatt was a pleasure to work with from start to finish, responsive, upfront, and  polite. The technician arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended! gramma check"',
       name:  'Eric Alexander',
     },
     2: {
