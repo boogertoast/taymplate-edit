@@ -27,7 +27,7 @@ const SITE = {
   // Reviews bar
   reviews_bar: {
     1: {
-      quote: "Absolutely outstanding work! Made my Driveway look brand new again!",
+      quote: 'Absolutely outstanding work! Made my Driveway look brand new again!',
       name:  'Sarah Williams',
     },
     2: {
