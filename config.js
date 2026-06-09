@@ -31,7 +31,7 @@ const SITE = {
       name:  'Sarah Williams',
     },
     2: {
-      quote: 'I couldn't believe the difference years of grime and staining just gone.',
+      quote: "I couldn't believe the difference years of grime and staining just gone.",
       name:  'Jim Bozard',
     },
     3: {
