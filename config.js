@@ -4,22 +4,22 @@ const SITE = {
 
   // Company
   company_name:     'Professor Power Wash',
-  phone:            '800-300-8565',
+  phone:            '346-513-7657',
   quote_email:      'uchooz@gmail.com',
   review_count:     '78,921+',
   review_count_raw: '78,921',
 
   // SEO
   meta: {
-    title:       'Trusted Lawn Care & Pest Control | Fairway Lawns',
-    description: 'Trusted by 78,000+ homeowners for lush, pest-free lawns. Fairway Lawns serves 7 states with a satisfaction guarantee. Claim your free treatment now.',
+    title:       'Trusted Houston Powerwashing | Professor Power Wash',
+    description: 'Trusted by [City] for spotless, streak-free surfaces. Professor Power Wash serves Houston with a satisfaction guarantee.',
   },
 
   // Bottom section
   hero: {
-    badge:      'Rated 4/5 - 78,921+ Total Reviews',
+    badge:      'Rated 5/5 - 78,921+ Total Reviews',
     heading:    "Graduate your driveway to the dean's list.",
-    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your home at the top of the class.",
+    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your driveway to the top of the class.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
@@ -31,11 +31,11 @@ const SITE = {
       name:  'Sarah Williams',
     },
     2: {
-      quote: "I couldn't believe the difference years of grime and staining just gone.",
+      quote: "Wyatt and the team did a wonderful job and our driveway is looking much better.",
       name:  'Jim Bozard',
     },
     3: {
-      quote: "My lawn is in the best shape it's been in for 5yrs. Extremely please with the result and their service",
+      quote: "I couldn’t be happier with the results! Wyatt was professional, punctual, and incredibly thorough.",
       name:  'Melissa Stuart',
     },
   },
@@ -50,17 +50,17 @@ const SITE = {
     },
     2: {
       title: '"The techs work hard and notice (and treat) everything"',
-      body:  '"I was immediately impressed. The first appointment was a careful assessment of our lawn. The subsequent treatments have been just as complete and the results are a great-looking, lush, healthy lawn."',
+      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did excellent work. The Driveway looks beautiful and their work exceeded my expectations.',
       name:  'Fritz Thecatte',
     },
     3: {
       title: '"They have my lawn looking better than ever!"',
-      body:  '"I was with another company for around 15 years. They were good at first, they fell off drastically. I cancelled and the difference was immediate."',
+      body:  'Wyatt did an amazing job, going above and beyond. Booking was easy, we were on the schedule within days, and thrilled with the results. Choose Wyatt!.',
       name:  'Jimmy Rogers',
     },
     4: {
       title: '"Since switching, our lawn is lush, vibrant, and healthy!"',
-      body:  'My lawn has never looked better! This is the second summer since we had it hydroseeded, and the difference is night and day. We\'re starting to compete with the golf course!',
+      body:  'Professor Power Wash was fantastic! They were friendly, showed up on time, and with their Platinum package our house, porch, pool patio, and large deck were all thoroughly washed, and our roof was also blown off. They were a great value for all of these services, and we will definitely be using them again in the future.',
       name:  'Charles Jones',
     },
     5: {
