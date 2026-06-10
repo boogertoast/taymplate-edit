@@ -3,7 +3,7 @@
 const SITE = {
 
   // Company
-  company_name:     'Fairway Lawns',
+  company_name:     'Professor Power Wash',
   phone:            '800-300-8565',
   quote_email:      'uchooz@gmail.com',
   review_count:     '78,921+',
