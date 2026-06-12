@@ -174,7 +174,7 @@ const SITE = {
     guarantee:   true,
     services:    true,
     feature:     true,
-    steps:       true,
+    steps:       false,
     carousel:    false,
     faq:         false,
     quote:       true,
