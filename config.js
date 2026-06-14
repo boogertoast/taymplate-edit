@@ -274,9 +274,6 @@ const SITE = {
 
   },
 };
-.wp-block-site-logo.is-default-size img {
-  width: 2000px !important;
-}
 // Config over, this is just my code now! Don't edit it
 
 (function () {
