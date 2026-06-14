@@ -62,10 +62,10 @@
     --text-subtle-color: var(--color-faint);
     --field-borders:    var(--color-border);
     --header-height:      120px;
-    --header-bg-color:    var(--color-white);
+    --header-bg-color:    var(--color-primary);
     --header-text-color:  #666;
-    --header-aux-bg:      var(--color-black);
-    --header-aux-color:   var(--color-white);
+    --header-aux-bg:      var(--color-primary);
+    --header-aux-color:   var(--color-primary);
     --header-cta-color:   var(--color-white);
     --logo-max-w: 200px;
     --logo-max-h: 80px;
