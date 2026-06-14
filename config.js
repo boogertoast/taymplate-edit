@@ -18,7 +18,7 @@ const SITE = {
   // Bottom section
   hero: {
     badge:      'Rated 5/5 - 78,921+ Total Reviews',
-    heading:    "Graduate your driveway to the dean's list.",
+    heading:    "Graduating your driveway to the dean's list.",
     subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your driveway to the top of the class.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
