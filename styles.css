@@ -19,8 +19,6 @@
     --color-banner-1: #f6fbc0;
     --color-banner-2: #e8f65a;
 }
-.wp-block-site-logo.is-default-size img {
-  width: 2000px !important;
 
 :root {
     --fl-color-primary:     var(--color-primary);
