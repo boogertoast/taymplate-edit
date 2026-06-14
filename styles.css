@@ -156,3 +156,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 }.wp-block-site-logo.is-default-size img {
   width: 2000px !important;
 }
+.brand .logo img {
+  width: 2000px !important;
+}
