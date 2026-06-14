@@ -67,8 +67,8 @@
     --header-aux-bg:      var(--color-primary);
     --header-aux-color:   var(--color-primary);
     --header-cta-color:   var(--color-white);
-    --logo-max-w: 200px;
-    --logo-max-h: 80px;
+    --logo-max-w: 400px;
+    --logo-max-h: 1600px;
     --fl-phone-button-bg-color:     var(--color-secondary);
     --fl-phone-button-border-color: var(--color-secondary);
     --fl-phone-button-color:        var(--color-white);
