@@ -189,7 +189,7 @@ const SITE = {
     body:         '#595959',
     subtle:       '#929292',
     faint:        '#d6d6d6',
-    white:        '#ffffff',
+    white:        '#0c2340',
     black:        '#333333',
     charcoal:     '#222222',
     darkest:      '#000000',
