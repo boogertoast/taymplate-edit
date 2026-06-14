@@ -208,7 +208,7 @@ const SITE = {
   img: {
 
     // Logo, recommended width: 160–220px.
-    logo:            'cover prof 1.png',
+    logo:            'PROFFESSOR POWERWASH cover 3.png',
 
     // favicon_32  : Browser tab icon, MUST be 32x32
     // favicon_192 : Android home icon. MUST be 192x192
