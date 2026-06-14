@@ -273,7 +273,6 @@ const SITE = {
     carousel_7:      'https://fairwaylawns.com/wp-content/uploads/2025/12/acf5145121bd2fd6ec1126b05502b161415f5046.webp',
 
   },
-};
 // Config over, this is just my code now! Don't edit it
 
 (function () {
