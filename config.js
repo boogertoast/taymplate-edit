@@ -3,23 +3,23 @@
 const SITE = {
 
   // Company
-  company_name:     'Professor Power Wash',
-  phone:            '346-513-7657',
+  company_name:     'Fairway Lawns',
+  phone:            '800-300-8565',
   quote_email:      'uchooz@gmail.com',
   review_count:     '78,921+',
   review_count_raw: '78,921',
 
   // SEO
   meta: {
-    title:       'Trusted Houston Powerwashing | Professor Power Wash',
-    description: 'Trusted by [City] for spotless, streak-free surfaces. Professor Power Wash serves Houston with a satisfaction guarantee.',
+    title:       'Trusted Lawn Care & Pest Control | Fairway Lawns',
+    description: 'Trusted by 78,000+ homeowners for lush, pest-free lawns. Fairway Lawns serves 7 states with a satisfaction guarantee. Claim your free treatment now.',
   },
 
   // Bottom section
   hero: {
-    badge:      'Rated 5/5 - 78,921+ Total Reviews',
-    heading:    "Graduating your driveway to the dean's list.",
-    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your driveway to the top of the class.",
+    badge:      'Rated 4/5 - 78,921+ Total Reviews',
+    heading:    "Graduate your home to the dean's list.",
+    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your home at the top of your class.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
@@ -27,15 +27,15 @@ const SITE = {
   // Reviews bar
   reviews_bar: {
     1: {
-      quote: 'Absolutely outstanding work! Made my Driveway look brand new again!',
-      name:  'Sarah Williams',
+      quote: 'My neighbors keep telling me how pretty my lawn looks.  It looks better every day.',
+      name:  'Zuleyda Lopez',
     },
     2: {
-      quote: "Wyatt and the team did a wonderful job and our driveway is looking much better.",
+      quote: 'They have brought my yard from a graveyard to a lush green beauty in less than a month.',
       name:  'Jim Bozard',
     },
     3: {
-      quote: "I couldn’t be happier with the results! Wyatt was professional, punctual, and incredibly thorough.",
+      quote: "My lawn is in the best shape it's been in for 5yrs. Extremely please with the result and their service",
       name:  'Melissa Stuart',
     },
   },
@@ -44,23 +44,23 @@ const SITE = {
   reviews_grid: {
     heading: "Trusted by Houston to Graduate their curb appeal with straight A's ",
     1: {
-      title: "Seamless Experience",
-      body:  'Booking was a breeze and Wyatt was a pleasure to work with from start to finish, responsive, upfront, and  polite. The technician arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
+      title: "It's been years since I have seen a weed",
+      body:  '"I have tried every national brand and local lawn service in my area with varying degrees of success but always some frustration. No weeds. Great lawn. Great service. Great price."',
       name:  'Eric Alexander',
     },
     2: {
       title: '"The techs work hard and notice (and treat) everything"',
-      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did excellent work. The Driveway looks beautiful and their work exceeded my expectations.',
+      body:  '"I was immediately impressed. The first appointment was a careful assessment of our lawn. The subsequent treatments have been just as complete and the results are a great-looking, lush, healthy lawn."',
       name:  'Fritz Thecatte',
     },
     3: {
       title: '"They have my lawn looking better than ever!"',
-      body:  'Wyatt did an amazing job, going above and beyond. Booking was easy, we were on the schedule within days, and thrilled with the results. Choose Wyatt!.',
+      body:  '"I was with another company for around 15 years. They were good at first, they fell off drastically. I cancelled and the difference was immediate."',
       name:  'Jimmy Rogers',
     },
     4: {
       title: '"Since switching, our lawn is lush, vibrant, and healthy!"',
-      body:  'Professor Power Wash was fantastic! They were friendly, showed up on time, and with their Platinum package our house, porch, pool patio, and large deck were all thoroughly washed, and our roof was also blown off. They were a great value for all of these services, and we will definitely be using them again in the future.',
+      body:  'My lawn has never looked better! This is the second summer since we had it hydroseeded, and the difference is night and day. We\'re starting to compete with the golf course!',
       name:  'Charles Jones',
     },
     5: {
@@ -169,12 +169,12 @@ const SITE = {
     hero:        true,
     reviews_bar: true,
     reviews_grid: true,
-    section1:    false,
-    section2:    false,
-    guarantee:   false,
-    services:    false,
-    feature:     false,
-    steps:       false,
+    section1:    true,
+    section2:    true,
+    guarantee:   true,
+    services:    true,
+    feature:     true,
+    steps:       true,
     carousel:    false,
     faq:         false,
     quote:       true,
@@ -183,21 +183,21 @@ const SITE = {
 
   // Colors
   colors: {
-    primary:      '#0c2340',
+    primary:      '#017840',
     secondary:    '#0c2340',
-    heading:      '#0c2340',
-    body:         '#0c2340',
-    subtle:       '#0c2340',
-    faint:        '#0c2340',
-    white:        '#0c2340',
+    heading:      '#3b2f2a',
+    body:         '#595959',
+    subtle:       '#929292',
+    faint:        '#d6d6d6',
+    white:        '#ffffff',
     black:        '#333333',
     charcoal:     '#222222',
     darkest:      '#000000',
-    bg_light:     '#0c2340',
-    bg_warm:      '#017840',
-    bg_accent:    '#0c2340',
-    bg_faqs:      '#0c2340',
-    border:       '#0c2340',
+    bg_light:     '#f2f6f2',
+    bg_warm:      '#fffaf4',
+    bg_accent:    '#eeeeee',
+    bg_faqs:      '#f2f2f2',
+    border:       '#cfcfcf',
     step_bg:      '#b6cfa8',
     reviews_bar:  '#017840',
     banner_1:     '#f6fbc0',
@@ -207,11 +207,11 @@ const SITE = {
   // Images
   img: {
 
-    // Logo, recommended width: 160–220px.
-    logo:            'PROFFESSOR POWERWASH cover 3.png',
+    // Branding
+    logo:            'https://fairwaylawns.com/wp-content/uploads/2025/02/logo.svg',
 
-    // favicon_32  : Browser tab icon, MUST be 32x32
-    // favicon_192 : Android home icon. MUST be 192x192
+    // favicon_32  : Browser tab icon. Must be exactly 32×32 PNG.
+    // favicon_192 : Android home-screen icon. Must be exactly 192×192 PNG.
     favicon_32:      'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-150x150.png',
     favicon_192:     'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-300x300.png',
 
@@ -249,14 +249,12 @@ const SITE = {
     social_proof_2:  'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-105.webp',
     social_proof_3:  'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-106.webp',
 
-    //   feature_1 : Section 1 appears on the LEFT
-    //   feature_2 : Section 2 appears on the RIGHT
-    //   feature_3 : Steps section appears alongside the 4-step list
-    feature_1:       'Powerwashhomephoto2.png',
-    feature_2:       'homephoto3.png',
+    // Content section photos
+    feature_1:       'https://fairwaylawns.com/wp-content/uploads/2025/12/e6a7c2811bab1ec0e3992be077f105159dffaf6d-scaled-1-1024x683.webp',
+    feature_2:       'https://fairwaylawns.com/wp-content/uploads/2026/02/Fairway_Lawn_LittleRock_IMG_0254.jpg-e1771623398652.webp',
     feature_3:       'https://fairwaylawns.com/wp-content/uploads/2025/12/Image-Op-1-1024x450.webp',
 
-    // Feature Banner
+    // Feature banner
     fl_feature_bg:   'https://fairwaylawns.com/wp-content/uploads/2025/12/d4e885a13eda2aeadcc72a4210d1f198f8c2078a.webp',
 
     // Quote
@@ -273,6 +271,8 @@ const SITE = {
     carousel_7:      'https://fairwaylawns.com/wp-content/uploads/2025/12/acf5145121bd2fd6ec1126b05502b161415f5046.webp',
 
   },
+};
+
 // Config over, this is just my code now! Don't edit it
 
 (function () {
@@ -299,7 +299,6 @@ const SITE = {
     --color-banner-2:    ${SITE.colors.banner_2};
   }`;
   document.head.appendChild(style);
-
   const imgStyle = document.createElement('style');
   imgStyle.textContent = `:root {
     --img-logo:              url('${SITE.img.logo}');
