@@ -226,7 +226,7 @@ const SITE = {
     review_avatar_3: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Group-289379-15.webp',
 
     // Review cards
-    review_card_1_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header.webp',
+    review_card_1_bg:     'review1.png',
     review_card_1_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Group-289379-3.webp',
 
     review_card_2_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-1-1.webp',
