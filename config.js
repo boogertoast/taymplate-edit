@@ -18,8 +18,8 @@ const SITE = {
   // Bottom section
   hero: {
     badge:      'Rated 4/5 - 78,921+ Total Reviews',
-    heading:    "Graduate your home to the dean's list.",
-    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your home at the top of your class.",
+    heading:    "Graduating your driveway to the dean's list",
+    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your driveway to the top of the class.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
@@ -27,16 +27,16 @@ const SITE = {
   // Reviews bar
   reviews_bar: {
     1: {
-      quote: 'My neighbors keep telling me how pretty my lawn looks.  It looks better every day.',
-      name:  'Zuleyda Lopez',
+      quote: 'Wyatt and the team did a wonderful job and our driveway is looking much better.',
+      name:  'Sarah Williams',
     },
     2: {
-      quote: 'They have brought my yard from a graveyard to a lush green beauty in less than a month.',
-      name:  'Jim Bozard',
+      quote: 'Absolutely outstanding work! Made my Driveway look brand new again!',
+      name:  'Cole Whitfield',
     },
     3: {
-      quote: "My lawn is in the best shape it's been in for 5yrs. Extremely please with the result and their service",
-      name:  'Melissa Stuart',
+      quote: "I couldn’t be happier with the results! Wyatt was professional, and incredibly thorough.",
+      name:  'Yolanda Castillo',
     },
   },
 
@@ -44,19 +44,19 @@ const SITE = {
   reviews_grid: {
     heading: "Trusted by Houston to Graduate their curb appeal with straight A's ",
     1: {
-      title: "It's been years since I have seen a weed",
-      body:  '"I have tried every national brand and local lawn service in my area with varying degrees of success but always some frustration. No weeds. Great lawn. Great service. Great price."',
-      name:  'Eric Alexander',
+      title: "Seamless Experience",
+      body:  '"Booking was a breeze and Wyatt was a pleasure to work with from start to finish, responsive, upfront, and  polite. The technician arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!"',
+      name:  'Brad Hollingsworth',
     },
     2: {
-      title: '"The techs work hard and notice (and treat) everything"',
-      body:  '"I was immediately impressed. The first appointment was a careful assessment of our lawn. The subsequent treatments have been just as complete and the results are a great-looking, lush, healthy lawn."',
-      name:  'Fritz Thecatte',
+      title: '"Came out super quick and did an excellent job!"',
+      body:  '"We are thrilled with our experience with Professor Power Wash. Wyatt did excellent work. The Driveway looks beautiful and their work exceeded my expectations."',
+      name:  'Christine Wickersham',
     },
     3: {
-      title: '"They have my lawn looking better than ever!"',
-      body:  '"I was with another company for around 15 years. They were good at first, they fell off drastically. I cancelled and the difference was immediate."',
-      name:  'Jimmy Rogers',
+      title: '"Incredible work!"',
+      body:  '"Wyatt and team were prompt, friendly, and careful. Price was super reasonable."',
+      name:  'Michelle Resnicek',
     },
     4: {
       title: '"Since switching, our lawn is lush, vibrant, and healthy!"',
