@@ -3,7 +3,7 @@
 const SITE = {
 
   // Company
-  company_name:     'Fairway Lawns',
+  company_name:     'Professor Power Wash',
   phone:            '800-300-8565',
   quote_email:      'uchooz@gmail.com',
   review_count:     '78,921+',
@@ -11,8 +11,8 @@ const SITE = {
 
   // SEO
   meta: {
-    title:       'Trusted Lawn Care & Pest Control | Fairway Lawns',
-    description: 'Trusted by 78,000+ homeowners for lush, pest-free lawns. Fairway Lawns serves 7 states with a satisfaction guarantee. Claim your free treatment now.',
+    title:       'Houston Power Wash | Professor Power Wash',
+    description: 'Trusted by Houston for fresh, driveways. Professor Power Wash serves Houston with a satisfaction guarantee. Graduate your driveway today.',
   },
 
   // Bottom section
@@ -27,7 +27,7 @@ const SITE = {
   // Reviews bar
   reviews_bar: {
     1: {
-      quote: 'Wyatt and the team did a wonderful job and our driveway is looking much better.',
+      quote: 'Wyatt and the team did a wonderful job and our driveway is looking much better!',
       name:  'Sarah Williams',
     },
     2: {
@@ -154,14 +154,14 @@ const SITE = {
 
   // Contact section
   quote: {
-    heading:          "Get the thick, green lawn you've always wanted & impress your neighbors",
-    subheading:       "Your dream lawn is just one call or click away. We'll create a custom plan for your yard and get you on the path to a thick, green lawn—hassle-free.",
-    form_title:       'Get your dream lawn today!',
+    heading:          "Graduating your driveway to the top of the class.",
+    subheading:       "Your Straight A driveway is one call or click away. Fresh and Clean hassle free.",
+    form_title:       'Graduate your driveway!',
     check_1:          "Free re-treatment if you're not 100% happy",
     check_2:          'Transparent pricing & no hidden fees',
     check_3:          'Local team of experts who actually care',
-    testimonial_text: 'My neighbors keep telling me how pretty my lawn looks.  It looks better every day.',
-    testimonial_name: 'Zuleyda Lopez',
+    testimonial_text: 'Wyatt and the team did a wonderful job and our driveway is looking much better!',
+    testimonial_name: 'Sarah Williams',
   },
 
   // Set a section to false and it wont show up anymore.
