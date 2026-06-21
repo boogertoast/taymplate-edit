@@ -259,7 +259,7 @@ const SITE = {
 
     // Quote
     quote_bg:        'homephoto.png',
-    quote_bg_1024:   'https://fairwaylawns.com/wp-content/uploads/2025/12/58e9541c5a34eabb0a78cdfe6d80f427ac0347c4-1024x686.webp',
+    quote_bg_1024:   'homephoto.png',
 
     // Carousel
     carousel_1:      'https://fairwaylawns.com/wp-content/uploads/2025/12/ce99648f016b7d855cad68030cfe5dfb77b4929d.webp',
