@@ -232,16 +232,16 @@ const SITE = {
     review_card_2_bg:     'review2.png',
     review_card_2_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122.webp',
 
-    review_card_3_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-2-1.webp',
+    review_card_3_bg:     'review3.png',
     review_card_3_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122-1.webp',
 
-    review_card_4_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-3-1.webp',
+    review_card_4_bg:     'review4.png',
     review_card_4_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Group-289379-2.webp',
 
-    review_card_5_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-4-1-e1771602389232.webp',
+    review_card_5_bg:     'review5.png',
     review_card_5_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Judy-Karnes.png',
 
-    review_card_6_bg:     'https://fairwaylawns.com/wp-content/uploads/2025/12/card-header-5-1.webp',
+    review_card_6_bg:     'review6.png',
     review_card_6_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122-2.webp',
 
     // Avatars
