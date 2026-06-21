@@ -50,7 +50,7 @@ const SITE = {
     },
     2: {
       title: 'Came out super quick and did an excellent job!',
-      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did excellent work. The Driveway looks beautiful and their work exceeded my expectations.',
+      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did excellent work. Our garage looks beautiful and their work exceeded my expectations.',
       name:  'Christine Wickersham',
     },
     3: {
