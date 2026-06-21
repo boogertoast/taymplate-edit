@@ -45,17 +45,17 @@ const SITE = {
     heading: "Trusted by Houston to Graduate their curb appeal with straight A's ",
     1: {
       title: 'Seamless Experience',
-      body:  '"Booking was a breeze and Wyatt was a pleasure to work with from start to finish, responsive, upfront, and  polite. The technician arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!"',
+      body:  'Booking was a breeze and Wyatt was a pleasure to work with from start to finish, responsive, upfront, and  polite. The technician arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
       name:  'Brad Hollingsworth',
     },
     2: {
-      title: '"Came out super quick and did an excellent job!"',
-      body:  '"We are thrilled with our experience with Professor Power Wash. Wyatt did excellent work. The Driveway looks beautiful and their work exceeded my expectations."',
+      title: 'Came out super quick and did an excellent job!',
+      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did excellent work. The Driveway looks beautiful and their work exceeded my expectations.',
       name:  'Christine Wickersham',
     },
     3: {
-      title: '"Incredible work!"',
-      body:  '"Wyatt and team were prompt, friendly, and careful. Price was super reasonable."',
+      title: 'Incredible work!',
+      body:  'Wyatt and team were prompt, friendly, and careful. Price was super reasonable.',
       name:  'Michelle Resnicek',
     },
     4: {
