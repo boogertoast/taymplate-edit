@@ -171,7 +171,7 @@ const SITE = {
     reviews_grid: true,
     section1:    false,
     section2:    false,
-    guarantee:   true,
+    guarantee:   false,
     services:    false,
     feature:     false,
     steps:       false,
