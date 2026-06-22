@@ -161,7 +161,7 @@ const SITE = {
     check_2:          'Transparent pricing & no hidden fees',
     check_3:          'Local team of experts who actually care',
     testimonial_text: 'Wyatt and the team did a wonderful job and our driveway is looking much better!',
-    testimonial_name: 'Sarah Williams',
+    testimonial_name: 'Selena Ramirez',
   },
 
   // Set a section to false and it wont show up anymore.
