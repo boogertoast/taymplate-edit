@@ -28,7 +28,7 @@ const SITE = {
   reviews_bar: {
     1: {
       quote: 'Wyatt and the team did a wonderful job and our driveway is looking much better!',
-      name:  'Sarah Williams',
+      name:  'Selena Ramirez',
     },
     2: {
       quote: 'Absolutely outstanding work! Made my Driveway look brand new again!',
@@ -61,17 +61,17 @@ const SITE = {
     4: {
       title: 'Outstanding Results Highly Recommend Professor Power Wash!',
       body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did an excellent job. Our Driveway looks so much better! I highly recommend Wyatt and his team!',
-      name:  'Charles Jones',
+      name:  'Marcus Jefferson',
     },
     5: {
-      title: 'It wasn\'t long until I and my neighbors saw improvement!',
+      title: 'Early, Efficient, and Professional',
       body:  'Team showed up early, set up quickly, and got to work on a large wash job. They worked steadily and efficiently, The team was friendly and professional, and did a wonderful job. We will certainly use Professor Power Wash.',
-      name:  'Judy Karnes',
+      name:  'Sarah Williams',
     },
     6: {
-      title: '"Local customer service has been very good."',
+      title: 'Driveway looks Brand New!',
       body:  'Professor Power Wash was timely, professional, and thorough with their completion of my requested service of driveway and garage cleaning. Scheduling was a breeze and Wyatt and his team did an amazing job. My home looks great! Thank you!',
-      name:  'Steve Oswald',
+      name:  'Whitney Broussard',
     },
   },
 
