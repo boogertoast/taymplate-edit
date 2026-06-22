@@ -59,8 +59,8 @@ const SITE = {
       name:  'Michelle Resnicek',
     },
     4: {
-      title: '"Since switching, our lawn is lush, vibrant, and healthy!"',
-      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt and did an excellent job. Our Driveway looks so much better! I highly recommend Wyatt and his team!',
+      title: 'Outstanding Results Highly Recommend Professor Power Wash!',
+      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did an excellent job. Our Driveway looks so much better! I highly recommend Wyatt and his team!',
       name:  'Charles Jones',
     },
     5: {
