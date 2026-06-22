@@ -64,13 +64,13 @@ const SITE = {
       name:  'Charles Jones',
     },
     5: {
-      title: '"It wasn\'t long until I and my neighbors saw improvement!"',
+      title: 'It wasn\'t long until I and my neighbors saw improvement!',
       body:  'Team showed up early, set up quickly, and got to work on a large wash job. They worked steadily and efficiently, The team was friendly and professional, and did a wonderful job. We will certainly use Professor Power Wash.',
       name:  'Judy Karnes',
     },
     6: {
       title: '"Local customer service has been very good."',
-      body:  '"This is our 2nd year and we couldn\'t be happier. We had switched from a different company because of poor service. Our lawn now looks absolutely fantastic!"',
+      body:  'Professor Power Wash was timely, professional, and thorough with their completion of my requested service of driveway and garage cleaning. Scheduling was a breeze and Wyatt and his team did an amazing job. My home looks great! Thank you!',
       name:  'Steve Oswald',
     },
   },
