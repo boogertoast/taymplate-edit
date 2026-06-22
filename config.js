@@ -45,7 +45,7 @@ const SITE = {
     heading: "Trusted by Houston to Graduate their curb appeal with straight A's ",
     1: {
       title: 'Seamless Experience',
-      body:  'Booking was a breeze and Wyatt was a pleasure to work with from start to finish, responsive, upfront, and  polite. The technician arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
+      body:  'Booking was a breeze and Wyatt was a pleasure to work with from start to finish, responsive, upfront, and  polite. The team arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
       name:  'Brad Hollingsworth',
     },
     2: {
@@ -65,7 +65,7 @@ const SITE = {
     },
     5: {
       title: '"It wasn\'t long until I and my neighbors saw improvement!"',
-      body:  '"We bought our home and knew it needed a lot of help. It wasn\'t long until I and my neighbors could see great improvement!"',
+      body:  'Team showed up early, set up quickly, and got to work on a large wash job. They worked steadily and efficiently, The team was friendly and professional, and did a wonderful job. We will certainly use Professor Power Wash.',
       name:  'Judy Karnes',
     },
     6: {
