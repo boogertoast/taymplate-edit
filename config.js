@@ -60,7 +60,7 @@ const SITE = {
     },
     4: {
       title: '"Since switching, our lawn is lush, vibrant, and healthy!"',
-      body:  'My lawn has never looked better! This is the second summer since we had it hydroseeded, and the difference is night and day. We\'re starting to compete with the golf course!',
+      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt and did an excellent job. Our Driveway looks so much better! I highly recommend Wyatt and his team!',
       name:  'Charles Jones',
     },
     5: {
