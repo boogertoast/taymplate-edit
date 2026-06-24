@@ -18,7 +18,7 @@ const SITE = {
   // Bottom section
   hero: {
     badge:      'Rated 5/5 By Houston Residents',
-    heading:    "Graduating your driveway to the dean's list",
+    heading:    "Graduating your driveway to the top of the class.",
     subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your driveway to the top of the class.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
@@ -154,7 +154,7 @@ const SITE = {
 
   // Contact section
   quote: {
-    heading:          "Graduating your driveway to the top of the class.",
+    heading:          "Graduating your driveway to the dean's list.",
     subheading:       "Your Straight A driveway is one call or click away. Fresh and Clean hassle free.",
     form_title:       'Graduate your driveway!',
     check_1:          "Free re-treatment if you're not 100% happy",
