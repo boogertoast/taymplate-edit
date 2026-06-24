@@ -154,8 +154,8 @@ const SITE = {
 
   // Contact section
   quote: {
-    heading:          "Graduating your driveway to the dean's list.",
-    subheading:       "Your Straight A driveway is one call or click away. Fresh and Clean hassle free.",
+    heading:          "Your Straight A driveway is one call or click away. Fresh and Clean hassle free.",
+    subheading:       "",
     form_title:       'Graduate your driveway!',
     check_1:          "Free re-treatment if you're not 100% happy",
     check_2:          'Transparent pricing & no hidden fees',
