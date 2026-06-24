@@ -154,7 +154,7 @@ const SITE = {
 
   // Contact section
   quote: {
-    heading:          "Your Straight A driveway is one call or click away.",
+    heading:          "Your Straight A driveway is one click away.",
     subheading:       "",
     form_title:       'Graduate your driveway!',
     check_1:          "Free re-treatment if you're not 100% happy",
