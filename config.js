@@ -221,7 +221,7 @@ const SITE = {
     hero_sm:         'homephoto1.png',
 
     // Reviews bar
-    review_avatar_1: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-123-3.webp',
+    review_avatar_1: 'reviewlogomain.svg',
     review_avatar_2: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-123-1.webp',
     review_avatar_3: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Group-289379-15.webp',
 
@@ -230,19 +230,19 @@ const SITE = {
     review_card_1_avatar: 'reviewlogo1.svg',
 
     review_card_2_bg:     'review2.png',
-    review_card_2_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122.webp',
+    review_card_2_avatar: 'reviewlogo2.svg',
 
     review_card_3_bg:     'review5.png',
-    review_card_3_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122-1.webp',
+    review_card_3_avatar: 'reviewlogo3.svg',
 
     review_card_4_bg:     'review4.png',
-    review_card_4_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Group-289379-2.webp',
+    review_card_4_avatar: 'reviewlogo4.svg',
 
     review_card_5_bg:     'review3.png',
-    review_card_5_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Judy-Karnes.png',
+    review_card_5_avatar: 'reviewlogo5.svg',
 
     review_card_6_bg:     'review6.png',
-    review_card_6_avatar: 'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-122-2.webp',
+    review_card_6_avatar: 'reviewlogo6.svg',
 
     // Avatars
     social_proof_1:  'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-104.webp',
