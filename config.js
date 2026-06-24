@@ -154,8 +154,8 @@ const SITE = {
 
   // Contact section
   quote: {
-    heading:          "Your Straight A driveway is one call or click away. Fresh and Clean hassle free.",
-    subheading:       "",
+    heading:          "Your Straight A driveway is one call or click away.",
+    subheading:       "Fresh and Clean hassle free.",
     form_title:       'Graduate your driveway!',
     check_1:          "Free re-treatment if you're not 100% happy",
     check_2:          'Transparent pricing & no hidden fees',
