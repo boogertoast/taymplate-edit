@@ -194,7 +194,7 @@ const SITE = {
     charcoal:     '#222222',
     darkest:      '#000000',
     bg_light:     '#f2f6f2',
-    bg_warm:      '#fffaf4',
+    bg_warm:      '#ffffff',
     bg_accent:    '#eeeeee',
     bg_faqs:      '#f2f2f2',
     border:       '#cfcfcf',
