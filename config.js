@@ -208,7 +208,7 @@ const SITE = {
   img: {
 
     // Branding
-    logo:            'https://fairwaylawns.com/wp-content/uploads/2025/02/logo.svg',
+    logo:            'PROFFESSOR POWERWASH cover 1.svg',
 
     // favicon_32  : Browser tab icon. Must be exactly 32×32 PNG.
     // favicon_192 : Android home-screen icon. Must be exactly 192×192 PNG.
