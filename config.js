@@ -4,7 +4,7 @@ const SITE = {
 
   // Company
   company_name:     'Professor Power Wash',
-  phone:            '800-300-8565',
+  phone:            '346-513-7657',
   quote_email:      'uchooz@gmail.com',
   review_count:     'Houston Residents with Graduated Driveways',
   review_count_raw: 'Houston Residents with Graduated Driveways',
