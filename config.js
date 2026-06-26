@@ -255,11 +255,11 @@ const SITE = {
     feature_3:       'https://fairwaylawns.com/wp-content/uploads/2025/12/Image-Op-1-1024x450.webp',
 
     // Feature banner
-    fl_feature_bg:   'homephoto.png',
+    fl_feature_bg:   'CTA2.svg',
 
     // Quote
-    quote_bg:        'homephoto.png',
-    quote_bg_1024:   'homephoto.png',
+    quote_bg:        'CTA2.svg',
+    quote_bg_1024:   'CTA2.svg',
 
     // Carousel
     carousel_1:      'https://fairwaylawns.com/wp-content/uploads/2025/12/ce99648f016b7d855cad68030cfe5dfb77b4929d.webp',
