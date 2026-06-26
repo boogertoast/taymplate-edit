@@ -226,7 +226,7 @@ const SITE = {
     review_avatar_3: 'reviewlogo8.svg',
 
     // Review cards
-    review_card_1_bg:     'review1.png',
+    review_card_1_bg:     'review1.svg',
     review_card_1_avatar: 'reviewlogo1.svg',
 
     review_card_2_bg:     'review2.png',
