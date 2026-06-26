@@ -19,7 +19,7 @@ const SITE = {
   hero: {
     badge:      'Rated 5/5 By Houston Residents',
     heading:    "Graduate your driveway to the top of the class.",
-    subheading: "At Professor Power Wash we turn all bad eggs into good noodles graduating your driveway to the dean's list.",
+    subheading: "We turn all bad eggs into good noodles graduating your driveway to the dean's list.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
