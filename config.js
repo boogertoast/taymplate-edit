@@ -216,9 +216,9 @@ const SITE = {
     favicon_192:     'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-300x300.png',
 
     // Hero section
-    hero_xl:         'homephoto1.png',
-    hero_md:         'homephoto1.png',
-    hero_sm:         'homephoto1.png',
+    hero_xl:         'CTA2.svg',
+    hero_md:         'CTA2.svg',
+    hero_sm:         'CTA2.svg',
 
     // Reviews bar
     review_avatar_1: 'reviewlogomain.svg',
