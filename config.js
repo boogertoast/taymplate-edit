@@ -226,22 +226,22 @@ const SITE = {
     review_avatar_3: 'reviewlogo8.svg',
 
     // Review cards
-    review_card_1_bg:     'review1.svg',
+    review_card_1_bg:     'review3.svg',
     review_card_1_avatar: 'reviewlogo1.svg',
 
-    review_card_2_bg:     'review2.png',
+    review_card_2_bg:     'review4.svg',
     review_card_2_avatar: 'reviewlogo2.svg',
 
-    review_card_3_bg:     'review5.png',
+    review_card_3_bg:     'review6.svg',
     review_card_3_avatar: 'reviewlogo3.svg',
 
-    review_card_4_bg:     'review4.png',
+    review_card_4_bg:     'review5.svg',
     review_card_4_avatar: 'reviewlogo4.svg',
 
-    review_card_5_bg:     'review3.png',
+    review_card_5_bg:     'review7.svg',
     review_card_5_avatar: 'reviewlogo5.svg',
 
-    review_card_6_bg:     'review6.png',
+    review_card_6_bg:     'review8.svg',
     review_card_6_avatar: 'reviewlogo6.svg',
 
     // Avatars
