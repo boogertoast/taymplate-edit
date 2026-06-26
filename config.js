@@ -212,8 +212,8 @@ const SITE = {
 
     // favicon_32  : Browser tab icon. Must be exactly 32×32 PNG.
     // favicon_192 : Android home-screen icon. Must be exactly 192×192 PNG.
-    favicon_32:      'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-150x150.png',
-    favicon_192:     'https://fairwaylawns.com/wp-content/uploads/2025/05/fairway-lawns-mark-300x300.png',
+    favicon_32:      'favicon1.svg',
+    favicon_192:     'favicon1.svg',
 
     // Hero section
     hero_xl:         'CTA2.svg',
