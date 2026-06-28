@@ -208,7 +208,7 @@ const SITE = {
   img: {
 
     // Branding
-    logo:            'PROFFESSOR POWERWASH 8.svg',
+    logo:            'professor logo.svg',
 
     // favicon_32  : Browser tab icon. Must be exactly 32×32 PNG.
     // favicon_192 : Android home-screen icon. Must be exactly 192×192 PNG.
