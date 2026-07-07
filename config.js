@@ -422,5 +422,6 @@ const SITE = {
       });
     }
   }
+document.body.style.visibility = 'visible';
 
 })();
