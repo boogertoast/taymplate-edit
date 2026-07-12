@@ -422,6 +422,25 @@ const SITE = {
       });
     }
   }
+  // Add this block into config.js, right before:
+//   document.body.style.visibility = 'visible';
+
+if (SITE.sections.sticky_cta) {
+  const aside = document.createElement('aside');
+  aside.className = 'sticky-lower-cta';
+
+  aside.innerHTML = `
+    <a class="fnc-evt-action button button--call" href="tel:${SITE.phone}">
+      <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5.22889 11.2522C7.30889 15.34 10.66 18.6911 14.7478 20.7711L17.9256 17.5933C18.33 17.1889 18.8933 17.0733 19.3989 17.2322C21.0167 17.7667 22.75 18.0556 24.5556 18.0556C24.9386 18.0556 25.306 18.2077 25.5769 18.4786C25.8478 18.7495 26 19.1169 26 19.5V24.5556C26 24.9386 25.8478 25.306 25.5769 25.5769C25.306 25.8478 24.9386 26 24.5556 26C18.043 26 11.7972 23.4129 7.19216 18.8078C2.5871 14.2028 0 7.95698 0 1.44444C0 1.06135 0.152182 0.693954 0.423068 0.423068C0.693954 0.152182 1.06135 0 1.44444 0H6.5C6.88309 0 7.25049 0.152182 7.52138 0.423068C7.79226 0.693954 7.94444 1.06135 7.94444 1.44444C7.94444 3.25 8.23333 4.98333 8.76778 6.60111C8.92667 7.10667 8.81111 7.67 8.40667 8.07444L5.22889 11.2522Z" fill="white"/>
+      </svg>
+      ${SITE.phone}
+    </a>
+    <a class="fnc-evt-intent button button--quote" href="#get-a-quote">Get a Quote</a>
+  `;
+
+  document.body.appendChild(aside);
+}
 document.body.style.visibility = 'visible';
 
 })();
