@@ -663,30 +663,35 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
     <input type="submit" class="gform_button button" value="Submit" />
   </div>
 </form>
-
+ 
 <script>
 document.getElementById('quote-mailto-form').addEventListener('submit', function (e) {
   e.preventDefault();
-
+ 
   const form = e.target;
   const submitBtn = form.querySelector('input[type="submit"]');
   const originalLabel = submitBtn.value;
-
+ 
   const n = document.getElementById('q_name').value;
   const em = document.getElementById('q_email').value;
   const p = document.getElementById('q_phone').value;
   const a = document.getElementById('q_address').value;
-
+ 
   submitBtn.value = 'Sending...';
   submitBtn.disabled = true;
-
+ 
   fetch('https://script.google.com/macros/s/AKfycbyCsZfz2sv9PTfd2KNVs0H8Pyn_AAX7b_nmXWSTXWqaYWtdszB506OTrODD9SlahmWs/exec', {
     method: 'POST',
     headers: { 'Content-Type': 'text/plain' },
     body: JSON.stringify({ name: n, email: em, phone: p, address: a })
   })
-    .then(res => {
-      submitBtn.value = 'Thank you!';
+    .then(res => res.json())
+    .then(data => {
+      if (data.status === 'success') {
+        submitBtn.value = 'Thank you!';
+      } else {
+        throw new Error(data.message || 'Unknown error');
+      }
     })
     .catch(() => {
       alert('Something went wrong. Please call us instead, or try again.');
