@@ -398,19 +398,6 @@ const SITE = {
     el.removeAttribute('data-cfg-tel');
   });
 
-  const form = document.getElementById('quote-mailto-form');
-  if (form) {
-    form.setAttribute('onsubmit', `
-      var n=document.getElementById('q_name').value;
-      var e=document.getElementById('q_email').value;
-      var p=document.getElementById('q_phone').value;
-      var a=document.getElementById('q_address').value;
-      var body='Name: '+n+'%0AEmail: '+e+'%0APhone: '+p+'%0AAddress: '+a;
-      window.location.href='mailto:${SITE.quote_email}?subject=Quote Request&body='+body;
-      return false;`
-    );
-  }
-
   document.title = resolve(document.title);
   document.querySelectorAll('script[type="application/ld+json"]').forEach(el => {
     if (el.textContent.includes('{{')) el.textContent = resolve(el.textContent);
