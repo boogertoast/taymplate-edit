@@ -47,16 +47,6 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 </head>
 
 <body class="home wp-singular page-template page-template-page-front-v2 page-template-page-front-v2-php page page-id-2 wp-custom-logo fl-v2" >
-
-Found it — this HTML has a few structural problems that explain the stacking:
-
-.brand-section has inline styles width: 100% !important; display: block !important; — that forces it to take the entire width of the row, which pushes everything after it (the nav-toggle button) down to a new line.
-The <a id="site-link"> tag around your logo is never closed before the </div>.
-The <div class="main-section site-container"> wrapper that should hold everything (brand, nav, toggle, CTA) is missing — it looks like it got deleted along the way.
-There's a stray extra </div> inside the nav with nothing to close.
-
-Here's the corrected version — replace your entire <header>...</header> block with this:
-html
     
    <header>
     <div class="main-section site-container">
