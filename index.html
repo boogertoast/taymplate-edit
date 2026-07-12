@@ -646,14 +646,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
                 
                 
                     
-                <form id="quote-mailto-form" class="gform_wrapper" onsubmit="
-  var n=document.getElementById('q_name').value;
-  var e=document.getElementById('q_email').value;
-  var p=document.getElementById('q_phone').value;
-  var a=document.getElementById('q_address').value;
-  var body='Name: '+n+'%0AEmail: '+e+'%0APhone: '+p+'%0AAddress: '+a;
-  window.location.href='mailto:{{quote_email}}?subject=Quote Request&body='+body;
-  return false;">
+                <form id="quote-mailto-form" class="gform_wrapper">
   <div class="gform_body">
     <input id="q_name"    type="text"  placeholder="Name (required)"    required style="display:block;width:100%;margin-bottom:10px;padding:8px;" />
     <input id="q_email"   type="email" placeholder="Email (required)"   required style="display:block;width:100%;margin-bottom:10px;padding:8px;" />
@@ -664,6 +657,42 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
     <input type="submit" class="gform_button button" value="Submit" />
   </div>
 </form>
+
+<script>
+document.getElementById('quote-mailto-form').addEventListener('submit', function (e) {
+  e.preventDefault();
+
+  const form = e.target;
+  const submitBtn = form.querySelector('input[type="submit"]');
+  const originalLabel = submitBtn.value;
+
+  const n = document.getElementById('q_name').value;
+  const em = document.getElementById('q_email').value;
+  const p = document.getElementById('q_phone').value;
+  const a = document.getElementById('q_address').value;
+
+  submitBtn.value = 'Sending...';
+  submitBtn.disabled = true;
+
+  fetch('https://formspree.io/f/mkodwela', {
+    method: 'POST',
+    headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+    body: JSON.stringify({ name: n, email: em, phone: p, address: a })
+  })
+    .then(res => {
+      if (res.ok) {
+        submitBtn.value = 'Thank you!';
+      } else {
+        throw new Error('Submission failed');
+      }
+    })
+    .catch(() => {
+      alert('Something went wrong. Please call us instead, or try again.');
+      submitBtn.value = originalLabel;
+      submitBtn.disabled = false;
+    });
+});
+</script>
                 
                 
         
