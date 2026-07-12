@@ -48,43 +48,48 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 
 <body class="home wp-singular page-template page-template-page-front-v2 page-template-page-front-v2-php page page-id-2 wp-custom-logo fl-v2" >
 
-<header>
-    
-   <div class="brand-section" style="width: 100% !important; text-align: center !important; display: block !important;">
-    <a id="site-link" href="/" style="display: block !important; text-align: center !important;">
-      <img data-cfg-logo-alt class="logo" src="{{img.logo}}" style="margin: 0 auto !important; display: block !important;" />
-</div>
+Found it — this HTML has a few structural problems that explain the stacking:
 
-<button class="nav-toggle" aria-label="Toggle navigation">
-    <i></i>
-    <i></i>
-    <i></i>
-</button>
+.brand-section has inline styles width: 100% !important; display: block !important; — that forces it to take the entire width of the row, which pushes everything after it (the nav-toggle button) down to a new line.
+The <a id="site-link"> tag around your logo is never closed before the </div>.
+The <div class="main-section site-container"> wrapper that should hold everything (brand, nav, toggle, CTA) is missing — it looks like it got deleted along the way.
+There's a stray extra </div> inside the nav with nothing to close.
 
-<nav class="nav-section">
-        <ul id="primary-menu" class="menu">
-  <li class="top-level-item"><a href="#">Home</a></li>
-  <li class="top-level-item"><a href="#section1">About</a></li>
-  <li class="top-level-item"><a href="#services">Services</a></li>
-</ul>
-            
-            </div>
+Here's the corrected version — replace your entire <header>...</header> block with this:
+html<header>
+    <div class="main-section site-container">
+        <div class="brand-section">
+            <a id="site-link" href="/">
+                <img data-cfg-logo-alt class="logo" src="{{img.logo}}" />
+            </a>
+        </div>
+
+        <button class="nav-toggle" aria-label="Toggle navigation">
+            <i></i>
+            <i></i>
+            <i></i>
+        </button>
+
+        <nav class="nav-section">
+            <ul id="primary-menu" class="menu">
+                <li class="top-level-item"><a href="#">Home</a></li>
+                <li class="top-level-item"><a href="#section1">About</a></li>
+                <li class="top-level-item"><a href="#services">Services</a></li>
+            </ul>
         </nav>
 
         <div class="cta-section">
-            
-<div data-schedule="{&quot;timezone&quot;:&quot;America\/Chicago&quot;,&quot;days&quot;:{&quot;Mon&quot;:[[7,19]],&quot;Tue&quot;:[[7,19]],&quot;Wed&quot;:[[7,19]],&quot;Thu&quot;:[[7,19]],&quot;Fri&quot;:[[7,18]],&quot;Sat&quot;:[[7,15]],&quot;Sun&quot;:[[10,17]]}}" class="fnc-scheduled">
-    <article data-bh style="display: none;">
-                    <a data-cfg-tel
-               class="fnc-evt-action button button--call"
-                data-context="header"                 ><svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <div data-schedule="{&quot;timezone&quot;:&quot;America\/Chicago&quot;,&quot;days&quot;:{&quot;Mon&quot;:[[7,19]],&quot;Tue&quot;:[[7,19]],&quot;Wed&quot;:[[7,19]],&quot;Thu&quot;:[[7,19]],&quot;Fri&quot;:[[7,18]],&quot;Sat&quot;:[[7,15]],&quot;Sun&quot;:[[10,17]]}}" class="fnc-scheduled">
+                <article data-bh style="display: none;">
+                    <a data-cfg-tel class="fnc-evt-action button button--call" data-context="header">
+                        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M5.22889 11.2522C7.30889 15.34 10.66 18.6911 14.7478 20.7711L17.9256 17.5933C18.33 17.1889 18.8933 17.0733 19.3989 17.2322C21.0167 17.7667 22.75 18.0556 24.5556 18.0556C24.9386 18.0556 25.306 18.2077 25.5769 18.4786C25.8478 18.7495 26 19.1169 26 19.5V24.5556C26 24.9386 25.8478 25.306 25.5769 25.5769C25.306 25.8478 24.9386 26 24.5556 26C18.043 26 11.7972 23.4129 7.19216 18.8078C2.5871 14.2028 0 7.95698 0 1.44444C0 1.06135 0.152182 0.693954 0.423068 0.423068C0.693954 0.152182 1.06135 0 1.44444 0H6.5C6.88309 0 7.25049 0.152182 7.52138 0.423068C7.79226 0.693954 7.94444 1.06135 7.94444 1.44444C7.94444 3.25 8.23333 4.98333 8.76778 6.60111C8.92667 7.10667 8.81111 7.67 8.40667 8.07444L5.22889 11.2522Z" fill="white"/>
 </svg>
-                {{phone}}            </a>
-            </article>
-</div>
+                        {{phone}}
+                    </a>
+                </article>
+            </div>
         </div>
-
     </div>
 </header>    <main class="fl-v2 fl-v2-front-page">
 
