@@ -646,7 +646,13 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
                 
                 
                     
-                <form id="quote-mailto-form" class="gform_wrapper">
+                <!--
+  Same exact form markup as before (same classes, same layout, same look).
+  Submits directly to your Google Sheet via Apps Script — no email client,
+  no third-party form service, no submission caps.
+-->
+
+<form id="quote-mailto-form" class="gform_wrapper">
   <div class="gform_body">
     <input id="q_name"    type="text"  placeholder="Name (required)"    required style="display:block;width:100%;margin-bottom:10px;padding:8px;" />
     <input id="q_email"   type="email" placeholder="Email (required)"   required style="display:block;width:100%;margin-bottom:10px;padding:8px;" />
@@ -674,17 +680,13 @@ document.getElementById('quote-mailto-form').addEventListener('submit', function
   submitBtn.value = 'Sending...';
   submitBtn.disabled = true;
 
-  fetch('https://formspree.io/f/mkodwela', {
+  fetch('https://script.google.com/macros/s/AKfycbyCsZfz2sv9PTfd2KNVs0H8Pyn_AAX7b_nmXWSTXWqaYWtdszB506OTrODD9SlahmWs/exec', {
     method: 'POST',
-    headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+    headers: { 'Content-Type': 'text/plain' },
     body: JSON.stringify({ name: n, email: em, phone: p, address: a })
   })
     .then(res => {
-      if (res.ok) {
-        submitBtn.value = 'Thank you!';
-      } else {
-        throw new Error('Submission failed');
-      }
+      submitBtn.value = 'Thank you!';
     })
     .catch(() => {
       alert('Something went wrong. Please call us instead, or try again.');
