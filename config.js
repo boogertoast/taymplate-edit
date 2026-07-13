@@ -78,7 +78,7 @@ const SITE = {
   // Media/text sections
   section1: {
     heading: "No pop quizzes, just the correct answer.",
-    body:    "Don't risk damage to your driveway with a generic one-size-fits-all pressure wash. Your driveway is the student, and we're the professor. Before class begins, we study its surface, texture, and stains, then tailor our lesson plan, adjusting pressure and cleaning solutions to fit its specific needs. The result: a personalized education that leaves your driveway graduating with honors: clean, restored, and ready for the next semester, no wear, no tear, no do-overs."
+    body:    "Don't risk damage to your driveway with a generic pressure wash. With us your driveway is the student, and we're the professor. Before class begins, we study its surface, texture, and stains, then tailor our lesson plan, adjusting pressure and cleaning solutions to fit your specific needs. The result: your driveway graduated with honors: clean, restored, and ready for the next semester, no wear, no tear, no do-overs."
 
   },
   section2: {
