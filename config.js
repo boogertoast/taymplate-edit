@@ -78,7 +78,7 @@ const SITE = {
   // Media/text sections
   section1: {
     heading: "No pop quizzes, just the right answer every time.",
-    body:    "Stop risking damage with one-size-fits-all pressure washing. Our technicians study your surfaces before every job, adjust pressure and chemicals like it's an open-book test, and make sure you graduate with clean results no wear, no tear, no do-overs."
+    body:    "Don't risk damage with one-size-fits-all pressure washing. Our technicians study your surfaces before every job, adjust pressure and chemicals like an open-book test, and make sure you graduate with clean results no wear, no tear, no do-overs."
 
   },
   section2: {
