@@ -78,7 +78,7 @@ const SITE = {
   // Media/text sections
   section1: {
     heading: "No pop quizzes, just the correct answer.",
-    body:    "Don't risk damage to your driveway with a generic pressure wash. Your driveway is the student, and we're the professor. We tailor our lesson plan, adjusting pressure and cleaning solutions to fit your specific needs. The result: your driveway graduated with honors: clean, restored, and ready for the next semester, no wear, no tear, no do-overs."
+    body:    "Don't risk damage to your driveway with a generic pressure wash. Your driveway is the student, and we're the professor. We tailor our lesson plan, adjusting pressure and cleaning solutions to fit your specific needs. The result: your driveway clean, restored, and graduated with honors. No wear, no tear, no do-overs."
 
   },
   section2: {
