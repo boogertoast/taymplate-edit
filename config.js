@@ -77,8 +77,9 @@ const SITE = {
 
   // Media/text sections
   section1: {
-    heading: "Our friendly local team of experts treat your lawn like it's their own",
-    body:    "Stop wasting money on treatments that don't work. Our technicians evaluate your lawn every visit, catch problems early, and adjust treatments so you get a healthier lawn faster.",
+    heading: "No pop quizzes, just the right answer every time.",
+    body:    "Stop risking damage with one-size-fits-all pressure washing. Our technicians study your surfaces before every job, adjust pressure and chemicals like it's an open-book test, and make sure you graduate with clean results no wear, no tear, no do-overs."
+
   },
   section2: {
     heading: 'Enjoy peace of mind with year-round service that works around your life',
