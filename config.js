@@ -78,7 +78,7 @@ const SITE = {
   // Media/text sections
   section1: {
     heading: "No pop quizzes, just the correct answer.",
-    body:    "Don't risk damage to your driveway with a generic pressure wash. Your driveway is the student, and we're the professor. We tailor our lescture, adjusting pressure and cleaning solutions to fit your specific needs. The result: your driveway looking brand new."
+    body:    "Don't risk damage to your driveway with a generic pressure wash. Your driveway is the student, and we're the professor. We tailor our lecture, adjusting pressure and cleaning solutions resulting in your driveway looking brand new."
 
   },
   section2: {
