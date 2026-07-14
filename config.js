@@ -77,12 +77,12 @@ const SITE = {
 
   // Media/text sections
   section1: {
-    heading: "No pop quizzes, just the correct answer.",
+    heading: "No Pop Quizzes Just The Correct Answer",
     body:    "Don't risk damage to your driveway with a generic pressure wash. Your driveway is the student, and we're the professor. We tailor our lecture, adjusting pressure and cleaning solutions resulting in your driveway looking brand new."
 
   },
   section2: {
-    heading: 'Front Row Attendance, No Exceptions',
+    heading: 'Front Row Attendance No Exceptions',
     body:    "Careless companies let stains skip class grease, oil, and algae show up late, sneaking into the back row, and leave early, leaving your driveway with an F on the report card. We take full attendance, calling every stain to the front and treating it properly, so nothing slides by and nothing comes back."
   },
 
