@@ -201,8 +201,8 @@ const SITE = {
     border:       '#cfcfcf',
     step_bg:      '#b6cfa8',
     reviews_bar:  '#017840',
-    banner_1:     '#f6fbc0',
-    banner_2:     '#e8f65a',
+    banner_1:     '#ffffff',
+    banner_2:     '#ffffff',
   },
 
   // Images
