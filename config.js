@@ -256,7 +256,7 @@ const SITE = {
     feature_3:       'Sectionphoto2.svg',
 
     // Feature banner
-    fl_feature_bg:   'CTA2.svg',
+    fl_feature_bg:   'BrickBeforeAfter.svg',
 
     // Quote
     quote_bg:        'CTA2.svg',
