@@ -83,7 +83,7 @@ const SITE = {
   },
   section2: {
     heading: 'Front Row Attendance, No Exceptions',
-    body:    "Careless companies let stains skip class grease, oil, and algae sneak into the back row, show up late, and leave early, leaving your driveway with an F on the report card. We take full attendance, calling every stain to the front and treating it properly, so nothing slides by and nothing comes back."
+    body:    "Careless companies let stains skip class grease, oil, and algae show up late, sneaking into the back row, and leave early, leaving your driveway with an F on the report card. We take full attendance, calling every stain to the front and treating it properly, so nothing slides by and nothing comes back."
   },
 
   // Banner
