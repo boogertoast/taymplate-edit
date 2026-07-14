@@ -252,7 +252,7 @@ const SITE = {
 
     // Content section photos
     feature_1:       'https://fairwaylawns.com/wp-content/uploads/2025/12/e6a7c2811bab1ec0e3992be077f105159dffaf6d-scaled-1-1024x683.webp',
-    feature_2:       'Section photo2.svg',
+    feature_2:       'Sectionphoto2.svg',
     feature_3:       'https://fairwaylawns.com/wp-content/uploads/2025/12/Image-Op-1-1024x450.webp',
 
     // Feature banner
