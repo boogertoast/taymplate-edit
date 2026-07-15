@@ -117,11 +117,11 @@ const SITE = {
 
   // Steps
   steps: {
-    heading: "Get the lawn you've always wanted in 4 simple steps",
-    1: { title: 'Get your free estimate',           body: "Submit the form or call our experts to receive a custom quote based on your lawn's needs, no obligation required." },
-    2: { title: 'We create your custom plan',        body: 'Our local experts assess your lawn and design a year-round treatment program tailored to your lawn.' },
-    3: { title: 'We start scheduled lawn treatment', body: "We show up on schedule throughout the year to treat your lawn. You don't need to be home or do anything." },
-    4: { title: 'Sit back and enjoy a great lawn',   body: "Your lawn gets greener, thicker, and healthier while you relax. Not happy with a treatment? We'll come back for free." },
+    heading: "Get A Straight A Driveway in 4 simple steps",
+    1: { title: 'Get your free estimate',           body: "Submit the form or call our experts to receive a custom quote based on your needs, no obligation required." },
+    2: { title: 'We create your custom plan',        body: 'Our local experts assess your driveway and design a treatment program tailored to your home.' },
+    3: { title: 'We start scheduled driveway treatment', body: "We show up on schedule to treat your driveway. You don't need to be home or do anything." },
+    4: { title: 'Sit back and enjoy a clean driveway',   body: "Your driveway gets washed while you relax. Not happy with a treatment? We'll come back for free." },
   },
 
   // FAQ
