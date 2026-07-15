@@ -173,7 +173,7 @@ const SITE = {
     section1:    true,
     section2:    true,
     guarantee:   true,
-    services:    true,
+    services:    false,
     feature:     false,
     steps:       true,
     carousel:    true,
