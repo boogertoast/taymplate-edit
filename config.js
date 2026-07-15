@@ -88,7 +88,7 @@ const SITE = {
 
   // Banner
   guarantee: {
-    heading: "100% satisfaction guarantee with free-reservice. We're not done until you're happy.",
+    heading: "100% satisfaction guarantee. We're not done until you're happy.",
     body:    "",
   },
 
