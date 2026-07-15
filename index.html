@@ -710,34 +710,99 @@ document.getElementById('quote-mailto-form').addEventListener('submit', function
 
     </main>
 
-    <footer>
-  <div>
-    <p>We Provide The Road 2 A Secure Roof Starting Today.</p>
-    <p>📞 Call Us: (832)-276-0000</p>
-    <p>✉️ Email Us: info@Road2Roofing.com</p>
+    <style>
+  #site-footer-block {
+    background: #ffffff !important;
+    padding: 60px 40px 30px;
+  }
+
+  #site-footer-block, 
+  #site-footer-block p,
+  #site-footer-block a,
+  #site-footer-block li,
+  #site-footer-block h3 {
+    color: #1a1a1a !important;
+    text-transform: none !important;
+  }
+
+  #site-footer-block a:hover {
+    text-decoration: underline;
+  }
+
+  #site-footer-block .footer-columns {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr;
+    gap: 40px;
+  }
+
+  #site-footer-block h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+  }
+
+  #site-footer-block ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #site-footer-block li {
+    margin-bottom: 12px;
+  }
+
+  #site-footer-block hr {
+    max-width: 1200px;
+    margin: 40px auto 20px;
+    border: none;
+    border-top: 1px solid #e5e7eb;
+  }
+
+  #site-footer-block .footer-bottom {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  @media (max-width: 768px) {
+    #site-footer-block .footer-columns {
+      grid-template-columns: 1fr;
+      gap: 32px;
+    }
+  }
+</style>
+
+<footer id="site-footer-block">
+  <div class="footer-columns">
+    <div>
+      <p>We Provide The Road 2 A Secure Roof Starting Today.</p>
+      <p>📞 Call Us: (832)-276-0000</p>
+      <p>✉️ Email Us: info@Road2Roofing.com</p>
+    </div>
+
+    <div>
+      <h3>Road 2 Roofing</h3>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </div>
+
+    <div>
+      <h3>Locations we serve</h3>
+      <ul>
+        <li><a href="#">Houston</a></li>
+        <li><a href="#">Katy</a></li>
+        <li><a href="#">Cypress</a></li>
+        <li><a href="#">Woodlands</a></li>
+      </ul>
+    </div>
   </div>
-
-  <nav>
-    <h3>Road 2 Roofing</h3>
-    <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-    </ul>
-  </nav>
-
-  <nav>
-    <h3>Locations we serve</h3>
-    <ul>
-      <li><a href="#">Houston</a></li>
-      <li><a href="#">Katy</a></li>
-      <li><a href="#">Cypress</a></li>
-      <li><a href="#">Woodlands</a></li>
-    </ul>
-  </nav>
 
   <hr>
 
-  <p>&copy; Road 2 Roofing. All rights reserved.</p>
+  <p class="footer-bottom">&copy; Road 2 Roofing. All rights reserved.</p>
 </footer>
 
 
