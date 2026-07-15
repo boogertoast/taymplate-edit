@@ -89,7 +89,7 @@ const SITE = {
   // Banner
   guarantee: {
     heading: "100% satisfaction guarantee with free-reservice. We're not done until you're happy.",
-    body:    "If you're not completely satisfied with a treatment, we'll come back for a no-charge service call. No questions asked, no hassle at all. That's our guarantee.",
+    body:    "",
   },
 
   // Service cards
