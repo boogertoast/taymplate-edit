@@ -170,7 +170,7 @@ const SITE = {
     hero:        true,
     reviews_bar: true,
     reviews_grid: true,
-    guarantee:   true,
+    guarantee:   false,
     section1:    true,
     section2:    true,
     services:    false,
