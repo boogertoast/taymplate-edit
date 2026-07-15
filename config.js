@@ -176,7 +176,7 @@ const SITE = {
     services:    false,
     feature:     false,
     steps:       true,
-    carousel:    true,
+    carousel:    false,
     faq:         false,
     quote:       true,
     sticky_cta:  true,
