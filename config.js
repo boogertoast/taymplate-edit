@@ -199,7 +199,7 @@ const SITE = {
     bg_accent:    '#eeeeee',
     bg_faqs:      '#f2f2f2',
     border:       '#cfcfcf',
-    step_bg:      '#b6cfa8',
+    step_bg:      '#0c2340',
     reviews_bar:  '#017840',
     banner_1:     '#ffffff',
     banner_2:     '#ffffff',
