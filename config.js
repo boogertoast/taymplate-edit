@@ -295,6 +295,8 @@ const SITE = {
     --color-bg-faqs:     ${SITE.colors.bg_faqs};
     --color-border:      ${SITE.colors.border};
     --color-step-bg:     ${SITE.colors.step_bg};
+    --steps-circle-bg:   ${SITE.colors.step_bg};
+    --steps-line-color:  ${SITE.colors.step_bg};
     --color-reviews-bar: ${SITE.colors.reviews_bar};
     --color-banner-1:    ${SITE.colors.banner_1};
     --color-banner-2:    ${SITE.colors.banner_2};
