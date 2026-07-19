@@ -430,6 +430,15 @@ if (SITE.sections.sticky_cta) {
   `;
 
   document.body.appendChild(aside);
+// Hide sticky bar while the quote form is being filled out
+  document.querySelectorAll('#quote-mailto-form input').forEach(field => {
+    field.addEventListener('focus', () => {
+      aside.style.display = 'none';
+    });
+    field.addEventListener('blur', () => {
+      aside.style.display = '';
+    });
+  });
 }
 document.body.style.visibility = 'visible';
 
