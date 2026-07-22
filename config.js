@@ -78,7 +78,7 @@ const SITE = {
   // Media/text sections
   section1: {
     heading: "No Pop Quizzes Just The Correct Answer",
-    body:    "Don't risk damage to your driveway with a generic pressure wash. Your driveway is the student, and we're the professor. We tailor our lecture, adjusting pressure and cleaning solutions resulting in your driveway looking brand new."
+    body:    "Generic pressure washing can crack concrete, strip pavers, or leave streaks. Your driveway's the student, we're the professor we tailor the lesson, adjusting pressure and cleaning solutions, for a graduated driveway looking brand new."
 
   },
   section2: {
