@@ -108,6 +108,68 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
         </section>
  
     </main>
+ <style>
+  #site-footer-block {
+    background: #0c2340 !important;
+    padding: 60px 40px 30px;
+  }
+
+  #site-footer-block, 
+  #site-footer-block p,
+  #site-footer-block a,
+  #site-footer-block li,
+  #site-footer-block h3 {
+    color: #ffffff !important;
+    text-transform: none !important;
+  }
+
+  #site-footer-block a:hover {
+    text-decoration: underline;
+  }
+
+  #site-footer-block .footer-columns {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr;
+    gap: 40px;
+  }
+
+  #site-footer-block h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+  }
+
+  #site-footer-block ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #site-footer-block li {
+    margin-bottom: 12px;
+  }
+
+  #site-footer-block hr {
+    max-width: 1200px;
+    margin: 40px auto 20px;
+    border: none;
+    border-top: 1px solid #e5e7eb;
+  }
+
+  #site-footer-block .footer-bottom {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  @media (max-width: 768px) {
+    #site-footer-block .footer-columns {
+      grid-template-columns: 1fr;
+      gap: 32px;
+    }
+  }
+</style>
  
     <footer id="site-footer-block">
       <div class="footer-columns">
