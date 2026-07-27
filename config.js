@@ -158,7 +158,7 @@ const SITE = {
     heading:          "Your Straight A driveway is one click away.",
     subheading:       "",
     form_title:       'Graduate your driveway!',
-    check_1:          "Free re-treatment if you're not 100% happy",
+    check_1:          "100% Satisfaction guaranteed",
     check_2:          'Transparent pricing & no hidden fees',
     check_3:          'Local team of experts who actually care',
     testimonial_text: 'Wyatt and the team did a wonderful job and our driveway is looking much better!',
