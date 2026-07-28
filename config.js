@@ -426,7 +426,7 @@ if (SITE.sections.sticky_cta) {
       </svg>
       ${SITE.phone}
     </a>
-    <a class="fnc-evt-intent button button--quote" href="#get-a-quote">Get a Quote</a>
+    <a class="fnc-evt-intent button button--quote" href="/#get-a-quote">Get a Quote</a>
   `;
 
   document.body.appendChild(aside);
