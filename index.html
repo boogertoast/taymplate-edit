@@ -768,6 +768,19 @@ document.getElementById('quote-mailto-form').addEventListener('submit', function
     }
   }
 </style>
+    <script>
+window.addEventListener('load', function () {
+  if (window.location.hash === '#get-a-quote') {
+    var target = document.querySelector('#get-a-quote');
+    if (target) {
+      // slight delay lets Masonry/Maps finish their final layout pass
+      setTimeout(function () {
+        target.scrollIntoView({ behavior: 'smooth' });
+      }, 300);
+    }
+  }
+});
+</script>
 
 <footer id="site-footer-block">
   <div class="footer-columns">
