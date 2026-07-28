@@ -119,8 +119,8 @@ const SITE = {
   steps: {
     heading: "Get A Straight A Driveway in 4 simple steps",
     1: { title: 'Get your free estimate',           body: "Submit the form or call our experts to receive a custom quote based on your concrete needs, no obligation required." },
-    2: { title: 'We create your custom plan',        body: 'Our local experts assess your exterior concrete and design a treatment program tailored to you.' },
-    3: { title: 'We start scheduled concrete treatment', body: "We show up on schedule to treat your concrete."},
+    2: { title: 'We create your custom plan',        body: 'Our local experts assess your exterior concrete and schedule a treatment program tailored to you.' },
+    3: { title: 'We start concrete treatment', body: "We show up on schedule to treat your concrete."},
     4: { title: 'Sit back and enjoy a clean concrete',   body: "Your driveway gets washed while you relax. 100% satisfaction guarantee. We're not done until you're happy." },
   },
 
