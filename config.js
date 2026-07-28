@@ -65,7 +65,7 @@ const SITE = {
     },
     5: {
       title: 'Early, Efficient, and Professional',
-      body:  'Team showed up early, set up quickly, and got to work on a large wash job. They worked steadily and efficiently, The team was friendly and professional, and did a wonderful job. We will certainly use Professor Power Wash.',
+      body:  'Team showed up early, set up quickly, and got to work on a large wash job. They worked steadily and efficiently, The team was friendly and professional, and did a wonderful job. We will certainly use Professor Power Wash again.',
       name:  'Sarah Williams',
     },
     6: {
@@ -119,7 +119,7 @@ const SITE = {
   steps: {
     heading: "Get A Straight A Driveway in 4 simple steps",
     1: { title: 'Get your free estimate',           body: "Submit the form or call our experts to receive a custom quote based on your needs, no obligation required." },
-    2: { title: 'We create your custom plan',        body: 'Our local experts assess your driveway,sidewalk, or porch and design a treatment program tailored to you.' },
+    2: { title: 'We create your custom plan',        body: 'Our local experts assess your exterior concrete and design a treatment program tailored to you.' },
     3: { title: 'We start scheduled driveway treatment', body: "We show up on schedule to treat your driveway. You don't need to be home or do anything." },
     4: { title: 'Sit back and enjoy a clean driveway',   body: "Your driveway gets washed while you relax. 100% satisfaction guarantee. We're not done until you're happy." },
   },
