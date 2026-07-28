@@ -107,7 +107,6 @@ const SITE = {
       title: 'Local Tree & Shrub Care',
       body:  'Targeted treatments that help your landscape handle local demands, from fertilizing the soil to keeping insects off the leaves.',
     },
-  },
 
   // Feature section
   feature: {
