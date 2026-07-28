@@ -253,7 +253,7 @@ const SITE = {
     // Content section photos
     feature_1:       'cleandriveway.svg',
     feature_2:       'fixeddriveway.svg',
-    feature_3:       'fixeddriveway.svg',
+    feature_3:       'cleandriveway.svg',
 
     // Feature banner
     fl_feature_bg:   'BrickBeforeAfter.svg',
