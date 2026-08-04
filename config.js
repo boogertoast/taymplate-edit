@@ -256,11 +256,11 @@ const SITE = {
     feature_3:       'fixeddriveway.avif',
 
     // Feature banner
-    fl_feature_bg:   'BrickBeforeAfter.svg',
+    fl_feature_bg:   'brickbeforeafter.jpg',
 
     // Quote
-    quote_bg:        'CTA2.svg',
-    quote_bg_1024:   'CTA2.svg',
+    quote_bg:        'sidewalks.jpg',
+    quote_bg_1024:   'sidewalks.jpg',
 
     // Carousel
     carousel_1:      'https://fairwaylawns.com/wp-content/uploads/2025/12/ce99648f016b7d855cad68030cfe5dfb77b4929d.webp',
