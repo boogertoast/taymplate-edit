@@ -218,7 +218,7 @@ const SITE = {
 
     // Hero section
     hero_xl:         'review 1.jpg',
-    hero_md:         'rreview 1.jpg',
+    hero_md:         'review 1.jpg',
     hero_sm:         'review 1.jpg',
 
     // Reviews bar
