@@ -217,9 +217,9 @@ const SITE = {
     favicon_192:     'favicon1.svg',
 
     // Hero section
-    hero_xl:         'review1.jpg',
-    hero_md:         'review1.jpg',
-    hero_sm:         'review1.jpg',
+    hero_xl:         'review1.avif',
+    hero_md:         'review1.avif',
+    hero_sm:         'review1.avif',
 
     // Reviews bar
     review_avatar_1: 'reviewlogomain.svg',
