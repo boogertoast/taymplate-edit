@@ -11,7 +11,7 @@ const SITE = {
 
   // SEO
   meta: {
-    title:       'Houston Power Wash | Professor Power Wash',
+    title:       'Houston Power Wash  Professor Power Wash',
     description: 'Trusted by Houston for fresh, driveways. Professor Power Wash serves Houston with a satisfaction guarantee. Graduate your driveway today.',
   },
 
