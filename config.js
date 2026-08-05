@@ -228,19 +228,19 @@ const SITE = {
 
     // Review cards
     review_card_1_bg:     'review3.svg',
-    review_card_1_avatar: 'reviewlogo1.svg',
+    review_card_1_avatar: 'reviewlogo1.jpg',
 
     review_card_2_bg:     'review4.svg',
     review_card_2_avatar: 'reviewlogo2.svg',
 
-    review_card_3_bg:     'review6.svg',
-    review_card_3_avatar: 'reviewlogo3.svg',
+    review_card_3_bg:     'review6.jpg',
+    review_card_3_avatar: 'reviewlogo3.jpg',
 
-    review_card_4_bg:     'review5.svg',
+    review_card_4_bg:     'review5.jpg',
     review_card_4_avatar: 'reviewlogo4.svg',
 
     review_card_5_bg:     'review7.svg',
-    review_card_5_avatar: 'reviewlogo5.svg',
+    review_card_5_avatar: 'reviewlogo5.jpg',
 
     review_card_6_bg:     'review8.svg',
     review_card_6_avatar: 'reviewlogo6.svg',
