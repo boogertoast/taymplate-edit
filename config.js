@@ -242,7 +242,7 @@ const SITE = {
     review_card_5_bg:     'review7.svg',
     review_card_5_avatar: 'reviewlogo5.jpg',
 
-    review_card_6_bg:     'review8.svg',
+    review_card_6_bg:     'review8.jpg',
     review_card_6_avatar: 'reviewlogo6.svg',
 
     // Avatars
