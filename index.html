@@ -36,8 +36,17 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 
 
 
-<link rel='stylesheet' id='boilerplate-style-css' href='css/theme-main.css' type='text/css' media='all' />
-<link rel='stylesheet' id='child-style-css' href='css/child-main.css' type='text/css' media='all' />
+<link rel="preload" href="styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="css/v2.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="css/theme-main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="css/child-main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<noscript>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="css/v2.css">
+  <link rel="stylesheet" href="css/theme-main.css">
+  <link rel="stylesheet" href="css/child-main.css">
+</noscript>
 <script type="text/javascript" src="js/jquery.min.js" id="jquery-core-js" defer></script>
 <script type="text/javascript" src="js/jquery-migrate.min.js" id="jquery-migrate-js" defer></script>
 <script type="text/javascript" src="js/theme-main.js" id="theme-main-js" defer></script>
