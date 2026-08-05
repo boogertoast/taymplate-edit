@@ -251,9 +251,9 @@ const SITE = {
     social_proof_3:  'https://fairwaylawns.com/wp-content/uploads/2025/12/Ellipse-106.webp',
 
     // Content section photos
-    feature_1:       'fixeddriveway.avif',
-    feature_2:       'fixeddriveway.avif',
-    feature_3:       'fixeddriveway.avif',
+    feature_1:       'fixeddriveway.jpg',
+    feature_2:       'fixeddriveway.jpg',
+    feature_3:       'fixeddriveway.jpg',
 
     // Feature banner
     fl_feature_bg:   'brickbeforeafter.jpg',
