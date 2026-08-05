@@ -2,6 +2,11 @@
 <html lang="en-US">
 
 <head>
+    function pw_preconnect_typekit() {
+    echo '<link rel="preconnect" href="https://use.typekit.net" crossorigin>';
+    echo '<link rel="preconnect" href="https://p.typekit.net" crossorigin>';
+}
+add_action('wp_head', 'pw_preconnect_typekit', 1);
     <style>
   body { visibility: hidden; }
 </style>
