@@ -11,7 +11,7 @@ const SITE = {
 
   // SEO
   meta: {
-    title:       'Houston Power Wash  Professor Power Wash',
+    title:       'Houston Power Wash | Professor Power Wash',
     description: 'Trusted by Houston for fresh, driveways. Professor Power Wash serves Houston with a satisfaction guarantee. Graduate your driveway today.',
   },
 
@@ -256,11 +256,11 @@ const SITE = {
     feature_3:       'fixedsidewalksmaller.jpg',
 
     // Feature banner
-    fl_feature_bg:   'drivewaysidebyside.jpg',
+    fl_feature_bg:   '',
 
     // Quote
-    quote_bg:        'sidewalks.jpg',
-    quote_bg_1024:   'sidewalks.jpg',
+    quote_bg:        'drivewaysidebyside.jpg',
+    quote_bg_1024:   'drivewaysidebyside.jpg',
 
     // Carousel
     carousel_1:      'https://fairwaylawns.com/wp-content/uploads/2025/12/ce99648f016b7d855cad68030cfe5dfb77b4929d.webp',
