@@ -27,7 +27,7 @@ const SITE = {
   // Reviews bar
   reviews_bar: {
     1: {
-      quote: 'Taylor and the team did a wonderful job and our driveway is looking much better!',
+      quote: 'Taylor and his team did a wonderful job and our driveway is looking much better!',
       name:  'Selena Ramirez',
     },
     2: {
