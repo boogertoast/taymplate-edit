@@ -259,8 +259,8 @@ const SITE = {
     fl_feature_bg:   '',
 
     // Quote
-    quote_bg:        'drivewaysidebyside.jpg',
-    quote_bg_1024:   'drivewaysidebyside.jpg',
+    quote_bg:        'mainphoto.jpg',
+    quote_bg_1024:   'mainphoto.jpg',
 
     // Carousel
     carousel_1:      'https://fairwaylawns.com/wp-content/uploads/2025/12/ce99648f016b7d855cad68030cfe5dfb77b4929d.webp',
