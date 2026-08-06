@@ -222,9 +222,9 @@ const SITE = {
     hero_sm:         'mainphoto.jpg',
 
     // Reviews bar
-    review_avatar_1: 'reviewlogomain.svg',
-    review_avatar_2: 'reviewlogo7.svg',
-    review_avatar_3: 'reviewlogo8.svg',
+    review_avatar_1: 'reviewlogomain.jpg',
+    review_avatar_2: 'reviewlogo7.jpg',
+    review_avatar_3: 'reviewlogo8.jpg',
 
     // Review cards
     review_card_1_bg:     'review3.jpg',
