@@ -45,7 +45,7 @@ const SITE = {
     heading: "Trusted by Houston to Graduate their curb appeal with straight A's ",
     1: {
       title: 'Seamless Experience',
-      body:  'Booking was a breeze and Taylor was a pleasure to work with from start to finish, responsive, upfront, and  polite. The team arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
+      body:  'Booking was simple and Taylor was a pleasure to work with from start to finish, responsive, upfront, and  polite. The team arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
       name:  'Brad Hollingsworth',
     },
     2: {
