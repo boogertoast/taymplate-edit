@@ -256,7 +256,7 @@ const SITE = {
     feature_3:       'fixedsidewalksmaller.jpg',
 
     // Feature banner
-    fl_feature_bg:   'brickbeforeafter.jpg',
+    fl_feature_bg:   'drivewaysidebyside.jpg',
 
     // Quote
     quote_bg:        'sidewalks.jpg',
