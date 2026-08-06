@@ -27,7 +27,7 @@ const SITE = {
   // Reviews bar
   reviews_bar: {
     1: {
-      quote: 'Wyatt and the team did a wonderful job and our driveway is looking much better!',
+      quote: 'Taylor and the team did a wonderful job and our driveway is looking much better!',
       name:  'Selena Ramirez',
     },
     2: {
@@ -35,7 +35,7 @@ const SITE = {
       name:  'Cole Whitfield',
     },
     3: {
-      quote: "I couldn’t be happier with the results! Wyatt was professional, and incredibly thorough.",
+      quote: "I couldn’t be happier with the results! Taylor was professional, and incredibly thorough.",
       name:  'Yolanda Castillo',
     },
   },
@@ -45,22 +45,22 @@ const SITE = {
     heading: "Trusted by Houston to Graduate their curb appeal with straight A's ",
     1: {
       title: 'Seamless Experience',
-      body:  'Booking was a breeze and Wyatt was a pleasure to work with from start to finish, responsive, upfront, and  polite. The team arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
+      body:  'Booking was a breeze and Taylor was a pleasure to work with from start to finish, responsive, upfront, and  polite. The team arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
       name:  'Brad Hollingsworth',
     },
     2: {
       title: 'Came out super quick and did an excellent job!',
-      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did excellent work. Our garage looks beautiful and their work exceeded my expectations.',
+      body:  'We are thrilled with our experience with Professor Power Wash. Taylor did excellent work. Our garage looks beautiful and their work exceeded my expectations.',
       name:  'Christine Wickersham',
     },
     3: {
       title: 'Incredible work!',
-      body:  'Wyatt and team were prompt, friendly, and careful. Price was super reasonable.',
+      body:  'Taylor and team were prompt, friendly, and careful. Price was super reasonable.',
       name:  'Michelle Resnicek',
     },
     4: {
       title: 'Outstanding Results Highly Recommend Professor Power Wash!',
-      body:  'We are thrilled with our experience with Professor Power Wash. Wyatt did an excellent job. Our Driveway looks so much better! I highly recommend Wyatt and his team!',
+      body:  'We are thrilled with our experience with Professor Power Wash. Taylor did an excellent job. Our Driveway looks so much better! I highly recommend Wyatt and his team!',
       name:  'Marcus Jefferson',
     },
     5: {
@@ -161,7 +161,7 @@ const SITE = {
     check_1:          "100% Satisfaction guaranteed",
     check_2:          'Transparent pricing & no hidden fees',
     check_3:          'Local team of experts who actually care',
-    testimonial_text: 'Wyatt and the team did a wonderful job and our driveway is looking much better!',
+    testimonial_text: 'Taylor and the team did a wonderful job and our driveway is looking much better!',
     testimonial_name: 'Selena Ramirez',
   },
 
