@@ -60,7 +60,7 @@ const SITE = {
     },
     4: {
       title: 'Outstanding Results Highly Recommend Professor Power Wash!',
-      body:  'We are thrilled with our experience with Professor Power Wash. Taylor did an excellent job. Our Driveway looks so much better! I highly recommend Wyatt and his team!',
+      body:  'We are thrilled with our experience with Professor Power Wash. Taylor did an excellent job. Our Driveway looks so much better! I highly recommend Taylor and his team!',
       name:  'Marcus Jefferson',
     },
     5: {
@@ -70,7 +70,7 @@ const SITE = {
     },
     6: {
       title: 'Driveway looks Brand New!',
-      body:  'Professor Power Wash was timely, professional, and thorough with their completion of my requested service of driveway and garage cleaning. Scheduling was a breeze and Wyatt and his team did an amazing job. My home looks great! Thank you!',
+      body:  'Professor Power Wash was timely, professional, and thorough with their completion of my requested service of driveway and garage cleaning. Scheduling was a breeze and Taylor and his team did an amazing job. My home looks great! Thank you!',
       name:  'Whitney Broussard',
     },
   },
