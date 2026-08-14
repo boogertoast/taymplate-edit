@@ -256,7 +256,6 @@ const SITE = {
     feature_3:       'fixedsidewalksmaller.jpg',
 
     // Feature banner
-    fl_feature_bg:   '',
 
     // Quote
     quote_bg:        'mainphoto.jpg',
