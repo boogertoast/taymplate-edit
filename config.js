@@ -155,13 +155,13 @@ const SITE = {
 
   // Contact section
   quote: {
-    heading:          "Your Straight A driveway is one click away.",
+    heading:          "Your Straight A garage door is one click away.",
     subheading:       "",
     form_title:       'Graduate your driveway!',
     check_1:          "100% Satisfaction guaranteed",
     check_2:          'Transparent pricing & no hidden fees',
     check_3:          'Local team of experts who actually care',
-    testimonial_text: 'Taylor and the team did a wonderful job and our driveway is looking much better!',
+    testimonial_text: 'Taylor and the team fixed our torsion springs and re-aligned our tracks our garage door is smooth and quiet now, Thank You!',
     testimonial_name: 'Selena Ramirez',
   },
 
