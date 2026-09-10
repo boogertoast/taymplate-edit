@@ -3,23 +3,23 @@
 const SITE = {
 
   // Company
-  company_name:     'Professor Power Wash',
-  phone:            '346-381-2136',
+  company_name:     'Garage Door Professor',
+  phone:            '832-814-5858',
   quote_email:      'professorpowerwash@gmail.com',
-  review_count:     'Houston Residents with Graduated Driveways',
-  review_count_raw: 'Houston Residents with Graduated Driveways',
+  review_count:     'Houston Residents with Graduated Garage Doors',
+  review_count_raw: 'Houston Residents with Graduated Garage Doors',
 
   // SEO
   meta: {
-    title:       'Houston Power Wash | Professor Power Wash',
-    description: 'Trusted by Houston for fresh, driveways. Professor Power Wash serves Houston with a satisfaction guarantee. Graduate your driveway today.',
+    title:       'Houston Garage Door Repair | Garage Door Professor',
+    description: 'Trusted by Houston for fast, reliable repairs. Garage Door Professor serves Houston with a satisfaction guarantee. Graduate your garage door today.',
   },
 
   // Bottom section
   hero: {
     badge:      'Rated 5/5 By Houston Residents',
-    heading:    "Graduate your driveway to the top of the class.",
-    subheading: "We turn all bad eggs into good noodles graduating your driveway to the dean's list.",
+    heading:    "Graduate your garage door to the top of the class.",
+    subheading: "We turn squeaky hinges into smooth openings graduating your garage door to the dean's list.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
@@ -27,7 +27,7 @@ const SITE = {
   // Reviews bar
   reviews_bar: {
     1: {
-      quote: 'Taylor and the team did a wonderful job and our driveway is looking much better!',
+      quote: 'Taylor and the team fixed our torsion springs and re-aligned our tracks our garage door is smooth and quiet now, Thank You!',
       name:  'Selena Ramirez',
     },
     2: {
