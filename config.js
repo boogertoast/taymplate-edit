@@ -31,26 +31,26 @@ const SITE = {
       name:  'Selena Ramirez',
     },
     2: {
-      quote: 'Absolutely outstanding work! Made my Driveway look brand new again!',
+      quote: 'Absolutely outstanding work! Made my garage door look and run brand new again!',
       name:  'Cole Whitfield',
     },
     3: {
-      quote: "I couldn’t be happier with the results! Taylor was professional, and incredibly thorough.",
+      quote: "I couldn't be happier with the results! Taylor was professional and incredibly thorough with our garage door.",
       name:  'Yolanda Castillo',
     },
   },
 
   // Reviews grid 
   reviews_grid: {
-    heading: "Trusted by Houston to Graduate their curb appeal with straight A's ",
+    heading: "Trusted by Houston to graduate their garage doors with straight A's.",
     1: {
       title: 'Seamless Experience',
-      body:  'Booking was simple and Taylor was a pleasure to work with from start to finish, responsive, upfront, and  polite. The team arrived right on time and did a fantastic job. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Professor Power Wash is the real deal highly recommended!',
+      body:  'Booking was simple and Taylor was a pleasure to work with from start to finish responsive, upfront, and polite. The team arrived right on time and did a fantastic job on our garage door. Since we were away, they sent over photos of the completed work, which was a really thoughtful touch. Garage Door Professor is the real deal highly recommended!',
       name:  'Brad Hollingsworth',
     },
     2: {
       title: 'Came out super quick and did an excellent job!',
-      body:  'We are thrilled with our experience with Professor Power Wash. Taylor did excellent work. Our garage looks beautiful and their work exceeded my expectations.',
+      body:  'We are thrilled with our experience with Garage Door Professor. Taylor did excellent work. Our garage door looks beautiful and their work exceeded my expectations.',
       name:  'Christine Wickersham',
     },
     3: {
@@ -59,18 +59,18 @@ const SITE = {
       name:  'Michelle Resnicek',
     },
     4: {
-      title: 'Outstanding Results Highly Recommend Professor Power Wash!',
-      body:  'We are thrilled with our experience with Professor Power Wash. Taylor did an excellent job. Our Driveway looks so much better! I highly recommend Taylor and his team!',
+      title: 'Outstanding Results Highly Recommend Garage Door Professor!',
+      body:  'We are thrilled with our experience with Garage Door Professor. Taylor did an excellent job. Our garage door works so much better! I highly recommend Taylor and his team!',
       name:  'Marcus Jefferson',
     },
     5: {
       title: 'Early, Efficient, and Professional',
-      body:  'Team showed up early, set up quickly, and got to work on a large wash job. They worked steadily and efficiently, The team was friendly and professional, and did a wonderful job. We will certainly use Professor Power Wash again.',
+      body:  'Team showed up early, set up quickly, and got to work realigning our bent tracks and swapping out damaged rollers. We will certainly use Garage Door Professor again.',
       name:  'Sarah Williams',
     },
     6: {
       title: 'Driveway looks Brand New!',
-      body:  'Professor Power Wash was timely, professional, and thorough with their completion of my requested service of driveway and garage cleaning. Scheduling was a breeze and Taylor and his team did an amazing job. My home looks great! Thank you!',
+      body:  'Garage Door Professor was timely, professional, and thorough with their completion of my requested garage door repair. Scheduling was a breeze and Taylor and his team did an amazing job. My garage door works great! Thank you!',
       name:  'Whitney Broussard',
     },
   },
@@ -78,12 +78,12 @@ const SITE = {
   // Media/text sections
   section1: {
     heading: "No Pop Quizzes Just The Correct Answer",
-    body:    "Generic pressure washing can crack concrete, strip pavers, or leave streaks. Your driveway's the student, we're the professor we tailor the lesson, adjusting pressure and cleaning solutions, for a graduated driveway looking brand new."
+    body:    "Generic garage door 'fixes' can strip screws, misalign tracks, or leave your door worse off. Your garage door's the student, we're the professor we tailor the lesson, using the right tools and techniques for a graduated door running brand new."
 
   },
   section2: {
     heading: 'Front Row Attendance No Exceptions',
-    body:    "Careless companies let stains skip class. Grease, oil, and algae show up late, sneak in the back row, and slip out early, leaving your driveway with an F on the report card. We take full attendance, calling every stain to the front and treating it properly, so nothing slides by and nothing comes back."
+    body:    "Careless companies let problems skip class. Worn springs, loose hardware, and misaligned tracks show up late, sneak in the back row, and slip out early, leaving your garage door with an F on the report card. We take full attendance, calling every issue to the front and treating it properly, so nothing slides by and nothing comes back."
   },
 
   // Banner
