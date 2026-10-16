@@ -18,8 +18,8 @@ const SITE = {
   // Bottom section
   hero: {
     badge:      'Rated 5/5 By Houston Residents',
-    heading:    "Instant Repair to last years so you can access your garage with ease!",
-    subheading: "We treat your garage door as our own graduating your garage door from broken to running smooth for years to come.",
+    heading:    "Same-day Insured Repair to last years so you can access your garage with ease!",
+    subheading: "Honest, Quality repairs at a reasonable price with no unecessary upsells and no hidden fees. ",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
