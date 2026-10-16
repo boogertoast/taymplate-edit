@@ -19,7 +19,7 @@ const SITE = {
   hero: {
     badge:      'Rated 5/5 By Houston Residents',
     heading:    "Insured Repair to last years so you can access your garage with ease!",
-    subheading: "Honest, quality, liscenced repairs at a reasonable price with no unecessary upsells and no hidden fees, so you can enjoy a safe and secure garage door for years to come.",
+    subheading: "Honest, liscenced repairs at a reasonable price with no unecessary upsells and no hidden fees, so you can enjoy a safe and secure garage door for years to come.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
