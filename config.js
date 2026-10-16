@@ -18,8 +18,8 @@ const SITE = {
   // Bottom section
   hero: {
     badge:      'Rated 5/5 By Houston Residents',
-    heading:    "Same-day Insured Repair to last years so you can access your garage with ease!",
-    subheading: "Honest, Quality repairs at a reasonable price with no unecessary upsells and no hidden fees. ",
+    heading:    "Insured Repair to last years so you can access your garage with ease!",
+    subheading: "Honest, Quality repairs at a reasonable price with no unecessary upsells and no hidden fees.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
   },
