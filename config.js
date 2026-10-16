@@ -18,7 +18,7 @@ const SITE = {
   // Bottom section
   hero: {
     badge:      'Rated 5/5 By Houston Residents',
-    heading:    "Graduate your garage door today!",
+    heading:    "Instant Repair to last years so you can access your garage with ease!",
     subheading: "We treat your garage door as our own graduating your garage door from broken to running smooth for years to come.",
     check_1:    'Satisfaction Guaranteed',
     check_2:    'Real customer support team',
