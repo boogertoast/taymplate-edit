@@ -227,7 +227,7 @@ const SITE = {
     review_avatar_3: 'reviewlogo8.jpg',
 
     // Review cards
-    review_card_1_bg:     'review3.jpg',
+    review_card_1_bg:     'cablebeforeafter.jpg',
     review_card_1_avatar: 'reviewlogo1.jpg',
 
     review_card_2_bg:     'review4.jpg',
